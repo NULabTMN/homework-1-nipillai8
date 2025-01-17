@@ -1,47 +1,3138 @@
-<topics>TEST
-  <topic>
-    <id></id>
-    <results>
-      <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
-      </result>
-      <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
-      </result>
-    </results>
-  </topic>
-  <topic>
-    <id></id>
-    <results>
-      <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
-      </result>
-      <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
-      </result>
-    </results>
-  </topic>
-  <topic>
-    <id></id>
-    <results>
-      <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
-      </result>
-      <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
-      </result>
-    </results>
-  </topic>
+<topics>
+    <topic>
+        <id>https://guides.loc.gov/chronicling-america-eiffel-tower</id>
+        <results>
+            <result>
+                <id>
+                    https://www.loc.gov/resource/sn83025121/1889-04-02/ed-1/?sp=8&amp;q=Eiffel+Tower+France+French+Paris+Worlds+Fair&amp;st=text&amp;r=-0.058,0,1.116,1.41,0</id>
+                <rel>1</rel>
+                <text>THE EIFFEL TOWER
+                    A Msht and Sensation for lisitor to
+                    1arls
+                    In view of the assurance of a
+                    creditable representation of Hawaii
+                    both in productions and person
+                    agesat the Universal Exhibition of
+                    this year in Paris a few facts rela
+                    tive to the EiffeUower culled from
+                    a late English paper may be of local
+                    interest
+                    The tower is named after its pro
+                    jector Mr Eiffel now President of
+                    the French Association of Engineers
+                    He is famed in part -for the design
+                    ing of a great bridge at Bordeaux
+                    Although the Eiffel tower was orig
+                    inally the conception mainly of an
+                    ambition likened to that of Ameri
+                    cans by the English paper referred
+                    to for having the highest structure
+                    in the world it was also early as
+                    sumed that it would have uses in the
+                    interest of science It is claimed
+                    and anticipated that it will be very
+                    raluable for observatory purposes
+                    owing to the perfect clearness of the
+                    air at its summit
+                    The tower is to be one thousand
+                    feet in height At the date of the
+                    description here drawn upon it had
+                    attained an altitude of 738 feet or
+                    162 feet higher than any other build
+                    ing on earth There were 180 men
+                    employed then in its construction
+                    100 preparing the lifts at the base
+                    and 80 riveting the perfectly fitted
+                    parts at top To avoid fatiguing the
+                    workmen aloft in descending several
+                    times a day for food a restaurant is
+                    fitted up at a height of about 400
+                    feet There are to bo four perman
+                    ent restaurants for the refreshment
+                    of visitors on the first stage of the
+                    tower
+                    A spiral stairway runs from the
+                    ground to the summit of the tower
+                    but it is believed that few if any in
+                    experienced heads will be able to en
+                    dure the strain of going round and
+                    round or looking down from the
+                    giddy heights Therefore there are
+                    to be mechanical lifts to the top
+                    four to the first stage two to the
+                    second and thence one to the sum
+                    mit the crown of observation The
+                    final lift will have a capacity of 65
+                    persons I1 ares will be 6 francs to
+                    the first stage and 5 francs to the
+                    top to be reduced on Sundays to 1
+                    franc and 3 francs respectively No
+                    visitors are allowed during construc
+                    tion except on Sundays owing to
+                    danger of accident from a hammer
+                    or bolt falling from aloft Mr iffol
+                    pays a weekly visit to thoworks The
+                    workmeu have to endure severe cold
+                    at the summit whore the thermome
+                    ter sometimes registers several de
+                    grees below zero
+                    The panoramic view to be obtained
+                    of the beautiful city of Paris and
+                    environs froin the top of the Eiffel
+                    tower must be loft to the readers
+                    imagination until assisted by ac
+                    counts from the Hawaiian Commis
+                    sioners Col Spalding and Hon J
+                    A Cummins or unofficial visitors
+                    from these isies or descriptive writ
+                    ers in the foreign press after ex
+                    periencing the sensations of the
+                    sublime ascension and prospect
+                    UHfrnisMuaii</text>
+            </result>
+            <result>
+                <id>
+                    https://www.loc.gov/resource/sn91068084/1889-04-26/ed-1/?sp=5&amp;q=Eiffel+Tower+Paris+Exhibition+1000+Feet+High+France+French+Worlds+Fair&amp;st=text&amp;r=-0.335,-0.303,1.669,2.11,0</id>
+                <rel>1</rel>
+                <text>NEARLY 1000 FEET HIG&amp;
+                    The Great Eiffel Tower at the
+                    Paris Exposition.
+                    How the Colossal Structure, Just
+                    Completed, was Erected.
+                    The great Eiffel tower at the Paris Exhi
+                    bition has just been completed, and a de
+                    scription of the colossal structure, with an
+                    account of the way it was built, and a sketch
+                    of its constructor, will bo appropriate at this
+                    time. It is scarcely necessary to say that the
+                    U
+                    mm
+
+                    Cologne
+                    Cathedral,
+                    511 ft.
+                    The Eiffel Tower,
+                    9S4 ft. The Great
+                    Pyramid,
+                    480 ft.
+                    Eiffel tower is by far the highest structure in
+                    the world. It presents a decidedly unique ap
+                    pearance, too in general outline not unlike a
+                    stack of four gigantic muskets with their
+                    butts well and solidly spread and their bay
+                    onets joining at their tips.
+                    The Eiffel tower stands in the Champ de
+                    Mars, almost on the left bank of the river
+                    Seine, just in the rear of the Quai d'Orsay,
+                    and in fact a part of its foundation is sunk
+                    through an old arm of the river, which lias
+                    been filled in these many years. Its base
+                    covers a plot of ground 328 feet square, or
+                    nearly two and a half acres in extent.
+                    GUSTAVF. EIFFEL.
+                    It Ls really at the base a group of four tow
+                    ers, each nearly fifty feet square, placed at
+                    the corners of the plot of ground, and in
+                    clining toward each other as they rise at an
+                    angle of fifty-four degrees. Each tower con
+                    sists of four columns, bound together by
+                    trusswork, and each column rests on a
+                    masonry pier which is so built that the weight
+                    of the column rests upon it squarely and not
+                    at an ancle.
+                    As the tower is 0S4 feet high. it will be
+                    seen that the matter of providing a solid
+                    foundation was one of great importance.
+                    There was a lot of boring and digging befon
+                    the spot upon which the tower stands was
+                    finally selected.
+                    The foundation rests upon a thick stratum
+                    of sand and gravel. It may be well to say.
+                    for the benefit of those who think sand is a
+                    rather treacherous sort f ground, that a bed
+                    of sand and gravel, away under ground, is
+                    pretty solid stuff. One of the towers of the
+                    Brooklyn Bridge rests on that sort of base.
+                    The foundations of the two piers of the Eiffel
+                    tower farthest from the Seine rest on sand
+                    and gravel about twenty-five feet below the
+                    surface of the ground. These foundations
+                    were laid in open excavations, and consist
+                    first of great solid platforms of beton, six
+                    feet thick, and next of four stone piers which
+                    rise to the surface to receive the iron col
+                    umns. The foundations for the two piers nearest
+                    the river were not so easily laid. It was
+                    necessary to go thirty-five feet below the
+                    surface of the ground, end this was sixteen
+                    feet under water. So caissons had to be
+                    used, as they were in building the Brooklyn
+                    Bridge piers.
+                    A caisson is in effect simply an enormous
+                    iron box, without any cover, turned upside
+                    down. The method of using it is to dig the
+                    earth out from under it and allow it to
+                    gradually settle as the excavation pro
+                    gresses, meanwhile building the pier on top.
+                    When the required depth is reached the cais
+                    a .n itself is filled up with the beton, and it
+                    forms the bottom layer of it a foundation.
+                    A shaft is left running through the pier
+                    auove for entrance and exit as the work goes
+                    on, and the air in the caisson and shaft is
+                    compressed to whatever is necessary to keep
+                    the water out of the bottom. It is the prin
+                    ciple of the diving bell modified.
+                    Work on the foundations was begun on
+                    January 28, 1887, and at the end of June they
+                    were completed. Then began the labor of
+                    setting up the innumerable pieces of iron of
+                    which the tower is composed, and it went on
+                    at a vapid rate, for each individual piece
+                    came from the works of M. Eiffel, at Leval-lois-Pere
+                    cut to its exact dimensions, fitted
+                    and drilled, so that no modification was neces
+                    sary at the place of operations. Up to a
+                    height of about fifty feet the workmen re
+                    quired no scaffolding to work upon, as each
+                    pier supported itself, although each leaned
+                    toward the others. Then an artificial support
+                    had to le provided, as above that height, un
+                    til the first platform was reached, the center
+                    of gravity of each pier would fall outside of
+                    the base.</text>
+            </result>
+            <result>
+                <id>
+                    https://www.loc.gov/resource/sn87060190/1889-05-07/ed-1/?sp=4&amp;q=Eiffel+Tower+Paris+France+French+Expo+Exhibition+Worlds+Fair&amp;st=text&amp;r=-0.038,-0.005,1.195,1.611,0</id>
+                <rel>1</rel>
+                <text>Pxitia, May At 3 o'clock Sunday after
+                    noon, M. Carnot, presidont of tho Ropublic,
+                    soaompaniod by a number of ominont states
+                    Mat, proceeded to .the Champs do Mars and
+                    formally declared tho exposition open to tho
+                    world. Thoro was much music and but lit
+                    tle speech making. The city is profusely
+                    Adorned with flags and banners; after dark
+                    gut lights, oloctrioity and fireworks blend in
+                    splendors noTor before equalled; and for
+                    meatus to come Paris will be the Mecca of
+                    th sightseers of the world.
+                    MAcm.tniiT nxLL.
+                    Xilherte, in 18GT and 1678, she has had
+                    world's fairs, which wers at those times the
+                    greatest yet held. The third, thich was
+                    pasted Sunday, far oxceeds them in inagni
+                    tod importanco and splendor as human
+                    MtaeremonU of the present surpass those of
+                    cto tho proximate past. In 1878 there
+                    ware displayed inventions that in 1807 would
+                    bars been esteemed chimorical; this year, in
+                    tarn, soos an array that scarcoly the wildest
+                    omthusiast had dreamed of cloven years ago.
+                    Tho Actual physic.il oxtont of tho present ex
+                    hibition correspondingly goes beyond that
+                    f its prcleceior. The exposition covers 103
+                    acres.
+                    The gardens of the Hotel des Invalided
+                    contain the exhibitions of tho French
+                    colonies, of tho several ministers and of
+                    social economy. At the Quai d'Orny aro
+                    tho halls of agriculture, viticulture, INhorios
+                    and general food products. The Trocudoro
+                    gardens are given up to fruits and flowers
+                    in tho open air and in glass houses. Tho
+                    principal buildings aro clustered on the
+                    Champs de Mars, where a century ago, somo
+                    of tho great oponing scenes of the revolution
+                    wero ouacted.
+                    At tho ontranco, spanning the gateway
+                    witu the vast archways of Ite base, rises tho
+                    gigantic Eiffel tower, 'MO metres high. Pass
+                    ing underneath it tho Central gardou is
+                    i cached. This has a monumental fountain
+                    BASE OF EIFFEL TOWER,
+                    ia tho middlo, and is surrounded by build
+                    ings containing exhibitions of flue arts,
+                    boUos lettres, tho liberal arts, and various
+                    departments of industry.
+                    Those buildings stand on parallel lines and
+                    ore crossed in their axis by a high gallery
+                    manaounted by a doma which leads to th
+                    hatt of machinery. Tho cost of tho build
+                    ings in tho Champs do Mars, exclusivo of tho
+                    Mffel tower, has been about (4,000,000, and
+                    it is intended that they shall remain as per
+                    aaaent structures. The total outlay author
+                    ised for tho entire exposition U 38,600,000, of
+                    wttch $000,000 is hold aa a rcerve fund.
+                    The earthworks required a removal of
+                    700,000 cubic foot. Tke drains and water
+                    pipes of the Camps do Mars were lengthened
+                    hf about two miles, and more than 40,009
+                    ems of iron and steel wero u&amp;ed by the
+                    holders. The hall of machinery is 1,309 feet
+                    long and 150 feet high, covered with a roof
+                    f iron, wood and glass, having a span of
+                    380 feet in tho clear, the greatest ever at
+                    tempted. A gullory extends around tke in
+                    terior for the display of tho lighter classes of
+                    machinery and from end to end run four un
+                    ferofcen linos of shafting for distributing the
+                    Beotivo power. Tho powor is dorived from a
+                    proup of steam engines placed in one of
+                    the touts, tho bollors of which transform
+                    into steam forty tons of wator per hour.
+                    The total energy is about 400 horse power.
+                    TJio chief architectural feature of the ex
+                    position is, of course, tho Eiffel tower, as
+                    wore the Crystal Palace at London In 1851,
+                    the iron lighthouse at Paris in 1807, tho groat
+                    THE EIFFEL TOWZ&amp; VBOX THE BEINK
+                    rotunda at Vionna in 1873, and the Trocadero
+                    palace at Paris in 1878. This is the loftiest
+                    structure eyer rahedjjy Iman, being about
+                    064 feet high. The Washington monumont
+                    now stands second, 55.5 feet. The Cologno
+                    cathedral is 501 feot. Tho tower of Babol
+                    was probably CS0 high. Moro than 7,000
+                    tons of metal were us?d in building tho
+                    Eiffel tower. Tho first sod was turned in
+                    excavation for its foundation on January
+                    28, 1887, and the whole work was completed
+                    on March 31, 1889.</text>
+            </result>
+            <result>
+                <id>
+                    https://www.loc.gov/resource/sn85032018/1894-01-31/ed-1/?sp=15&amp;q=Eiffel+Tower+Paris+France+French+Worlds+Fair+1900+Exhibition&amp;st=text&amp;r=-0.304,-0.08,1.608,1.608,0</id>
+                <rel>1</rel>
+                <text>The World's lair in 1900.
+                    Already the air is' filled with rumors
+                    respecting the exposition of 1900, says
+                    a Paris letter in the Philadelphia Tel
+                    graph. Already are the moans of the
+                    Parisians rending the air beforehand,
+                    for it is a Parisian peculiarity to detest
+                    world's fairs in general, and those held
+                    in their own city in particular. Quoth
+                    a miserable native in heartrending ac
+                    cents: "Whenever there is a great ex
+                    hibition all our taxes go up-rtempo-rarily
+                    we are told, but never by an ac
+                    cident do they go down. I paid three
+                    hundred and eighty francs in '77,
+                    and for the same premises my taxes
+                    are now three thousand and odd. We
+                    are overrun by tourists; we are crowd
+                    ed out of all the theaters; the cabmen
+                    all go on strike; the cafes all put up
+                    their prices. For several years before
+                    all the streets one wants to go through
+                    are closed to the public because the ex
+                    hibition is being prepared, and for at
+                    least a year after the same streets are
+                    closed because the exhibition is being
+                    demolished. All your country cousins
+                    come to town and expect to stay with
+                    you in an apartment you have always
+                    found too cramped for the require
+                    ments of yonr own family; and if I am
+                    not lucky enough to be dead I shall
+                    certainly move away before this large
+                    misfortune falls upon this unhappy
+                    place."
+                    tj Happily all Paris is not so pessi
+                    mistic as my friend, and the architects
+                    are busy with their plans. All the
+                    ground comprised in the exhibition of
+                    '89 is to be included, as well as the por
+                    tion of Cour la Heine that will inclose
+                    the Palais 1' Industrie and its surround
+                    ing gardens. We are to have an addi
+                    tional bridge across the Seine which
+                    will open a vista from the Place de la
+                    Concorde straight through to the palace
+                    of electricity, which is to be the cen
+                    tral feature. Our rulers are greatly
+                    bored about the Eiffel tower; but as
+                    the concession was granted for twenty
+                    years it has got to stand; but the arch
+                    itects say consolingly that the 7 will
+                    try and hide it as much as possible.
+                    The sight of it vexes poetio souls,
+                    and Francois Coppee, the author, who
+                    is, by way of being, sthetio, wrote
+                    a formal protest to the government at
+                    the time of its erection to request that
+                    the plan should not be carried out on
+                    the ground that the Eiffel tower, being
+                    ugly and ungainly, and furthermore
+                    being visible from his windows, inter
+                    fered with his flow of inspiration.
+                    However, the tower was built never
+                    theless, and, although we are deadly
+                    tired of seeing it about, Coppee con
+                    tinues to write, so evidently his flow
+                    ol inspiration was only impeded and
+                    not permanently plugged up. Further
+                    more, we are to have a branch exhibit
+                    at Versailles, which will rouse that
+                    sleepy little town from its chief ou
+                    pation of listening to the grass grow
+                    ing in the streets. In the splendid
+                    park of Versailles, on either side of
+                    the grand canal, is to be the retro
+                    spective history of gardens throughout
+                    the ages.
+                    The Hanging Gardens of Babylon,
+                    that were counted among the wonders
+                    of the world, are to be reproduced in
+                    miniature; Japanese gardens, Persian
+                    gardens, the Italian garden of the
+                    renaissance and French and English
+                    gardens of different epochs. The
+                    Grand canal itself is to be used for the
+                    exhibition of one of the floating gar
+                    dens cultivated by the Aztecs in Mex
+                    ico before the Spanish conquest of the
+                    country. The center of the canal is to
+                    be occupied by a large island built on
+                    piles, with bridges connecting it with
+                    the two shores, which is to have
+                    aquaria, grottoes and cascades, with
+                    cages for aquatic birds, and the great
+                    sheet of water is to be additionally or
+                    namented, by an exact reproduction of
+                    the little fleet of elegant boats that
+                    Louis XIV. launched on its surface
+                    when Versailles was first built All
+                    this sounds most imposing; but we are
+                    devoutly thankful that the time for it
+                    has not yet come. It is like the 6tory
+                    of the philosopher who was to teach
+                    the king's donkey to speak in a year's
+                    time, on pain of death, and never
+                    bothered about the penalty on the
+                    crowd tMt the kin? mLrht UJ
+                    the "doSkey "might' die, or ha
+                    himself might die, and whatever hap
+                    pened he had a year to the good. So,
+                    as we have seven years before us, we
+                    do not yet as a rule wail about future
+                    contingencies.
+                    POLANDCHINA PIGS AND SHORT
+                    horns, bred by J. H. Taylor, Pearl, Eas.
+                    MEGGlNCUBaT0nS0rilY$1Q
+                    F.M.CUEYlA,Boxl51,Lincoln,NebV I v
+                    AGE
+                    Wanted. Liberal Salary
+                    AthotneortotrTl. Team rural, hrd
+                    free. P. O. VICKKBY, AaoiU, He.
+                    AND TUMORS aolan tlfUally
+                    I treated and cured. No knife.
+                    Rook ft. Dr. L. II. tiralla-ay.
+                    1 SO SkMIU A, Clarlaaali, Ohio.
+                    FOR LADIES ONLYJXTi
+                    Valuable Secret that cost me 15.00 and a Rubber Shield for SOetSi
+                    Mia f ft.ftTlAN tX!.,ofi KlVMSyiHUIAflfX, fTfo
+                    BH0RTHAND gong raSIkBMkataklapiB. Sum
+                    ptoat tat an Tm, eoqaM to iha tuuatiaaa ewun4
+                    rtuMM W BatM,Titarrpt m Shunt DrartraM. ft. H.
+                    lira (art, laoaai dtf Bartrnai UoMtntv. iaaaw Utf. at
+                    Permanently Cured
+                    Home treatment. 0 to t35.
+                    Bend stamp for hook.
+                    jno. B. Harris, Port Payne, Ala.
+                    ftr A MnNTH"i"!!I"i!f"7;
+                    MU a montn to dUtfiMM circular,, warypwu momuij. omii
+                    U oar modi and contract free. Send 10 cti. for pottage, packing,
+                    f.'.,. Wi MtinKwim VSWS SUI'PI.Y CO.Cmca.ia In.
+                    $COC Agent's profltspermonth. Will
+                    J Cm J prove It or pay forfeit. New arti
+                    cles juat oat. A L60 sample and terms free. Try
+                    us. Chideater Son, 38 Bond at, N. Y.
+                    MICROBE cause disease; Microbe Killer
+                    kills microbes. Cures all diseases. Write
+                    for agency. Big money: exclusive control. If
+                    sick write for pampnlet. Try our granules;
+                    finest laxative In the world; 250 postpaid.</text>
+            </result>
+            <result>
+                <id>
+                    https://www.loc.gov/resource/sn83040198/1899-02-03/ed-1/?sp=7&amp;q=Eiffel+Tower+France+French+Paris+Exhibition+Worlds+Fair+Ladder+Clouds&amp;st=text&amp;r=-0.241,-0.074,1.483,1.483,0</id>
+                <rel>1</rel>
+                <text>A LADDER FROM THE CLOUDS
+                    Bach Will Be the Appearance of the
+                    Eiffel Tower of Parts When
+                    Painted.
+                    The Eiffel tower, say the gentlemen
+                    of esthetic temperament, must go.
+                    The Eiffel tower, say the gentlemen
+                    who know the law, must stay for some
+                    years yet. The Eiffel tower, say the
+                    esthetes. Is ugly, discouraging to the
+                    eye and an all-round nightmare. "Scaf
+                    fold I cries the carper. "Down with it
+                    It has no place in esthetic Paris,"
+                    "Impossible! objects the law. "When
+                    the company took a lease of it they
+                    got it for a term of 20 years.. You
+                    can't break the lease, and the time is
+                    nowhere up.
+                    "But, urges the esthete, "look at
+                    the shape, look at the size, look at the
+                    color! Is not the whole thing hideous"?
+                    If we can't destroy it we can at least
+                    improve it and lessen the offense to
+                    our senses."
+                    And so the Eiffel tower is going to be
+                    metamorphosed. It has. been in color
+                    a reddish brown, and it is the color to
+                    which the gentlemen with the fine ideas
+                    have long objected. They have called
+                    the tower a shameless creation and re
+                    peatedly ridiculed the commonplace
+                    tone of hue. And now they have pre
+                    v ailed, and the lower is going to be a
+                    thing of beauty, so far as that goes.
+                    Silver white is the color agreed upon,
+                    and it is urged that when the army of
+                    workmen have finished their painting
+                    the huge structure will look really not
+                    so bad after all. Ilalf a hundred men
+                    will be employed on the building, work
+                    ing hard every day for two months.
+                    And 50,000 kilogrammes of paint will
+                    be used up before the Eiffel tower has
+                    finally lost its brickdust coat and finds
+                    itself arrayed in the poetic covering
+                    which the esthetes have advised. Two
+                    coats of paint will be applied and the
+                    brushes will be busy.
+                    It has been objected that the tbwer
+                    has always had the appearance or hav
+                    ing been cast up in inartistic form by
+                    a careless earth. The tower has seemed
+                    to rise awkwardly from the ground,
+                    the critical have said. Why not give
+                    it such an arrangement as would sug
+                    gest the idea of dropping from the
+                    clouds? That would be a pleasing fan
+                    cy, and if the huge tower were lighted
+                    at regular intervals it would present a
+                    picture as of a brilliant creature of the
+                    clouds, and all the world would be lost
+                    in admiration. These plans were sug
+                    gested when the exposition of 1900 were
+                    tinder discussion, and they have been
+                    adopted. A ladder from the clouds.
+                    That was tbe idea. 'And with that the
+                    esthetic taste, was forced to be sat
+                    isfied.
+                    The Eiffel tower has long been the
+                    universal bed lamp of Paris. The great
+                    candle in the top would be sadly miss-d,
+                    even by those who have fought agair.&amp;t
+                    the continuance of the structure. That
+                    ever-swaying lantern is one of the won
+                    ders of the French capital. Y. Her
+                    aid.
+                    Kicked All Around.
+                    A correspondence is being published
+                    In the Times on the subject of "French
+                    Feeling Toward Englishmen." A Mr.
+                    Jackson has written to that paper to
+                    repeat that at Caen recently a student
+                    went out of his way to publiely insult
+                    Great Britain. As a boy I was first for
+                    some years at school in Paris. I -was
+                    then kicked for being an Englishman;
+                    later I was transferred to a school in
+                    England, where I was kicked for being
+                    a Frenchman. Comment is unneces
+                    sary. London Truth.
+                    Bis Only neeoorie.</text>
+            </result>
+            <result>
+                <id>
+                    https://www.loc.gov/resource/sn90059523/1903-10-25/ed-1/?sp=24&amp;q=Eiffel+Tower+Doomed+Rocks+Wind+Paris+France+French+Gustav&amp;st=text&amp;r=-0.216,-0.072,1.431,1.431,0</id>
+                <rel>1</rel>
+                <text>THE Eiffel Tower must come down.
+                    The authorities of Paris have so decreed.
+                    This iron spire, the tallest structure in the
+                    world, and the engineering feat of the last cen
+                    tury, \.i regarded as a dangerous plaything.
+                    When a high wind blows from the south the great
+                    ribbed structure trembles like a frightened horse.
+                    But let a stiff breeze come bowling down from the
+                    north and the tower vibrates until the china rattles in
+                    the cafes, and to those in the observatory at the apex the
+                    sensation is that of a ship fossed by heavy seas.
+                    The fact that the tower is more'sensitive to a wind
+                    from the north than from the south is regarded as proof
+                    of the structural weakness, and from this springs the
+                    theory of danger of collapse.
+                    It is almost twenty years since Gustav Eiffel began
+                    the work of building his sky-scraper. The mark of com
+                    pletion was set for 1889, Exposition year, and on March 31
+                    of that year the tower was thrown open to the public. It
+                    wa« the leading attraction of the big show, and it has
+                    not since ceased to attract attention and coin.
+                    The cost of building the structure was more than
+                    $1,000,000. Of that amount the French government appro
+                    priated $29L',000. Eiffel supplied the remainder, trusting
+                    for his reimbursement to the receipts from admission fees
+                    and other sources.
+                    In this he was not uisappolnted, as the profits of the
+                    first year were almost sufficient to make him whole.
+                    The lease held by Eiffel will expire in next March, and
+                    then, if the present plans of the city fathers are realized,
+                    the work of razing the unique structure will be started.
+                    The plan is to sell the tower to the highest bidder, the
+                    purchaser to be given a certain time in which to remove
+                    what Paris regards as almost a public menace.
+                    Except as a curio and an Investment for its builder,
+                    the tower has been somewhat of a failure.
+                    Much was expected in the scientific world from the
+                    metaphorical observatory, with its physical and biological
+                    laboratories, all 954 feet above ground. But little has
+                    come of this, the enterprise having taken on a rather
+                    commercial aspect.
+                    The Eiffel Tower will ever be considered a colossa*
+                    feat of engineering.
+                    Tlhese Stria! Ihxean F®ds ire nsudhes hM
+                    .'v_V- Ir 'mJf.A?j -i?'^^t Vk^T*i^*v*
+                    THE beanstalk up which Jack, the Giant Killer,
+                    climbed to fame has been sung and pictured until
+                    even little Emma and Annie and Jeannette and
+                    Joe, sprawled there on the nursery floor, can tell
+                    of its sturdy trunk, of its stout, ladder-like branches, of
+                    Its leathery leaves, which the eager hands of their hero.
+                    Jack, could not crush, though he clutched them ever so
+                    tightly.
+                    They can tell you that this fabled beanstalk was so
+                    tall that "Oo! you jest couldn't see the top uv it, so you
+                    couldn't."
+                    DRINKERS IN TWO CLASSES
+                    ==Mlsery and L,Mxtuiry==
+                    BOTH CLAIM THEIR VICTIMS OF LIQUOR
+                    LONDON, August 17.
+                    WOMEN who drink are classified by the experts
+                    into two sections—misery drinkers and luxury
+                    drinkers.
+                    Speaking broadly, the misery drinkers come
+                    from the very poor, the luxury drinkers from the rich.
+                    But whatever the cause which first sends them to drink
+                    the ultimate results are the same—a falling birth-rate, a
+                    rising death-rate among infants and the physical degen
+                    eration of the race.</text>
+            </result>
+            <result>
+                <id>https://chroniclingamerica.loc.gov/lccn/sn83045487/1917-04-23/ed-1/seq-5/ocr/</id>
+                <rel>1</rel>
+                <text>Paris. Stars and stripes hung be
+                    side tri-color on Eiffel tower Sunday,
+                    afternoon, while formal salute of 21
+                    guns was fired in its fconor. It was
+                    United States day in Paris and Amer
+                    ican flags -were everywhere.
+                    New York. Local newspapers
+                    adopt resolution criticizing press
+                    censorship provision of espionage
+                    bill "assault upon very foundation ol
+                    our free institutions, freedom ol
+                    thought and freedom of speech."</text>
+            </result>
+            <result>
+                <id>
+                    https://www.loc.gov/resource/sn83045462/1907-05-18/ed-1/?sp=26&amp;q=Dangerous+Painting+World+Eiffel+Tower+Paris+France+French+Republic+Gustav&amp;st=text&amp;r=-0.149,-0.412,1.111,2.36,0</id>
+                <rel>1</rel>
+                <text>The Trocadero m Seen Through the
+                    "Lege" of the Tower.
+                    Height of the Great Tower
+                    as Compared to Some of
+                    the World's Tallest
+                    Structures.
+                    Special Correspondence of The Star.
+                    PARIS, May A, 1907.
+                    A painter has Just fallen from the Eiffel
+                    Tower. Four more men must fall to make
+                    the awful average of the most dangerous
+                    painting Job in the world?repeated every
+                    six years only.
+                    They are repainting the Eiffel Tower,
+                    and all Paris is concerned about the color,
+                    on which depends whether the gigantic
+                    mass of iron shall be the eyesore or the
+                    glory of the capital.
+                    Its first shade was "dead leaf," In 1889.
+                    When the sun lit it up to hazy golden with
+                    an unreal effect of Jeweler's fragility, even
+                    the artists who now corse it admitted that
+                    the Eiffel Tower had its nobility.
+                    In 1896, after immense discussion, they
+                    repainted It orange, magnetic currents
+                    even more than light and weather having
+                    turned it to a dingy chocolate, heavy and
+                    obtrusive. In strong sun the orange
+                    showed gleaming copper or red gold. Oscar
+                    Wilde declared It magnificent. Puvis de
+                    Chavannes threatened to blow It up with
+                    dynamite. From this period dated the bad
+                    name the tower acquired as a colossal
+                    piece of engineering vulgarity, usurping
+                    the artistic note of Paris.
+                    Then, for the exposition, they painted it
+                    "sun color." In bright lights the tower
+                    became a thing of glory once again.
+                    "All Depends Upon the Faint."
+                    "All depends upon the paint!" declares
+                    the city's architect, Bouyard, "a fact
+                    which shows the utter inartistic character
+                    of the Titan 1^3 intruder. The pyramids ol
+                    Egypt were originally cased with gleaming
+                    marble; but its present lack does not
+                    detract from the artistic appropriateness
+                    of the pyramids to their situation!"
+                    The tower gleamed sun color seven years
+                    agoi But the atmospheric electricity received
+                    every hour since then by such an
+                    unprecedented mass of iron reaching into
+                    the air so high is Incalculable. Conducting
+                    tubes a foot and a half in diameter
+                    lead it down the four niles to flftv feet be
+                    low the water-bearing stratum; but the
+                    effect on the paint la there for every one
+                    to see. It does not crack the paint off.
+                    The paint simply disappears, leaving the
+                    ugly chocolate, the dingy brown of the
+                    oxidising iron.
+                    It Is the tower's way of "calling for new
+                    victims. Fifty painters, working continuously
+                    together, take three months to do a
+                    ingle coat Few tourists realise- the immense
+                    proportions of the tower, but
+                    Parisian!, by experience, show you a peculiar
+                    phenomenon of Its deceptive symmetry.
+                    They take you In a cab close to the
+                    tower. It looks heavy and chunky. It
+                    seems sinking into the earth from lU
+                    weight. Half a mile distant from that
+                    oab the tower grows higher and slenderer.
+                    It seems to lift Itself from the earth, like
+                    a person rising from his knees. "Why, It's
+                    bigger than before!" you say. At a mil*
+                    distant-It seems quite as near. The river
+                    boats ttmt flit beside It now look tiny. The
+                    buildings round about are growing small.
+                    But the tower grows! Then at two miles?
+                    from the heights above Passy?It appears
+                    A 4kin? A# litfhtnMa hl alAn^nrAf
+                    Efc IIIIUB Vi u fc?v? gutiUVBWi ?and
+                    more open In Its lacework than when
+                    you gaped at its foot almost disappointed!
+                    In a country town thirty miles from
+                    Paris I have sat at night and watched Its
+                    leaxchltsht!
+                    Some Comparisons.
+                    Tou think Niagara Falls are high? They
+                    are 105 feet, and St. Paul's Cathedral, Lon- 1
+                    don. is 404 feet. Niagara Falls could de
+                    scend from below St. Paul's dome. Now
+                    place St. Paul's beside the Eiffel tower. It
+                    reaches only to the second platform of the
+                    tower?the real beginning of its slender
+                    shaftl
+                    Place the Eiffel tower beside the greatest
+                    buildings of the world. The great pyramid
+                    does not reach to Its Intermediate platform.
+                    Neither does the spire of the Cologne 1
+                    Cathedral.
+                    Only one 'set of buildings, nevertheless,
+                    are higher than the Cologne Cathedral
+                    Bplre. They are the sky-scrapers of American
+                    dtles, the tallest actually existing being,
+                    say, 6S6 feet high. It would not reach to
+                    the tower's intermediate platform, either.
+                    The loftiest masonry construction In the
+                    world is to be the Singer building extension,
+                    at the corner of Liberty street and
+                    Broadway, New Torlc. Beating any other J i
+                    American sky-scraper by 57 feet, it will i
+                    stick 612 feet into the air. And yet even j
+                    It will not reach to the Eiffel tower's inter- i
+                    mediate platform 1
+                    You can easily detect this intermediate i
+                    platform half way up the slender shaft of 3
+                    the Eiffel tower. In the nearer photographs j
+                    It shows for what it is?a mere platform
+                    for styftlng passengers from one set of ele- t
+                    vators to another, built In the center of the 1
+                    the time you git left. This yere man. Bob
+                    Hampton, Is my prisoner, an' I'll take him
+                    to Cheyenne. If I have ter brain every tough t
+                    in Glencaid to do It. Thet's me, gents." 1
+                    "Oh, come oft; you can't run your notions j
+                    igin the whole blame moral sentiment of c
+                    this camp." c</text>
+            </result>
+            <result>
+                <id>https://chroniclingamerica.loc.gov/lccn/sn83045462/1912-09-14/ed-1/seq-23/ocr/</id>
+                <rel>1</rel>
+                <text>IParis
+                    fV
+                    Birdseye View of Paris Taken From the Top of the Eiffel Tower. In the Distance
+                    May Be Seen the Arc de Triomphe, Around
+                    Which Is Situated the Most Fashionable and Aristocratic Residential Quarter in
+                    Paris.
+                    (PHOTOGRAPH BY COURTESY OF NEWMAN TRAVELTALKS.)
+
+                </text>
+            </result>
+            <result>
+                <id>
+                    https://www.loc.gov/resource/sn83030214/1900-05-20/ed-1/?sp=43&amp;q=Feet+Tower+Eiffel+Paris+France+French+Worlds+Fair+Exhibition&amp;st=text&amp;r=-0.322,-0.082,1.644,1.644,0</id>
+                <rel>0</rel>
+                <text></text>
+            </result>
+            <result>
+                <id>
+                    https://www.loc.gov/resource/sn85033162/1900-05-18/ed-1/?sp=3&amp;q=Paris+Exposition&amp;st=text&amp;r=-0.372,-0.087,1.744,1.744,0</id>
+                <rel>0</rel>
+                <text></text>
+            </result>
+            <result>
+                <id>
+                    https://www.loc.gov/resource/sn84026749/1907-03-10/ed-1/?sp=47&amp;q=Eiffel+Tower+Gustav+Paris+France+French+Republic&amp;r=-0.196,0.586,0.858,0.578,0&amp;st=text</id>
+                <rel>0</rel>
+                <text></text>
+            </result>
+            <result>
+                <id>https://chroniclingamerica.loc.gov/lccn/sn83045487/1912-09-14/ed-1/seq-23/ocr/</id>
+                <rel>0</rel>
+                <text></text>
+            </result>
+            <result>
+                <id>https://chroniclingamerica.loc.gov/lccn/sn85066387/1912-04-28/ed-1/seq-8/ocr/</id>
+                <rel>0</rel>
+                <text></text>
+            </result>
+            <result>
+                <id>https://chroniclingamerica.loc.gov/lccn/sn83045462/1954-05-23/ed-1/seq-123/ocr/</id>
+                <rel>0</rel>
+                <text></text>
+            </result>
+        </results>
+    </topic>
+    <topic>
+        <id>https://guides.loc.gov/chronicling-america-babe-ruth</id>
+        <results>
+            <result>
+                <id>https://chroniclingamerica.loc.gov/lccn/sn86063381/1916-10-09/ed-1/seq-4/ocr/</id>
+                <rel>1</rel>
+                <text>
+                    &amp;amp;#34;BABE&amp;amp;#34; RUTH PITCHES
+                    SECOND FOR BOSTON
+                    Babe Ruth.
+                    Babe Ruth, the Red Sox pitcher, is
+                    just about as valuable for his hit
+                    ting as for his pitching. Ruth has
+                    shown so much natural talent at bat
+                    that Bill Carrigan has seriously con
+                    sidered playing bim in the outfield
+                    when he isn&amp;apos;t pitching
+                    SUBMARINE ACTIVE
+                    (Continued from Page 1)
+                </text>
+            </result>
+            <result>
+                <id>https://chroniclingamerica.loc.gov/lccn/sn83045211/1917-07-02/ed-1/seq-10/ocr/</id>
+                <rel>1</rel>
+                <text>Babe Ruth Is Lucky to Get Off So Easily After Hittimj Umpire
+                    FAR be It from ua to wish any guy haid luck, but It appears that Babo Ruth
+                    escftpefl too easily after his fight with Umplro Owens on tho ball field. Ban
+                    Johnson dismissed the matter with a flno of $100 nnd a suspension of ono week.
+                    This does not seem enough, nnd It Is certain that a player of less lmportanro
+                    would have been treated rather harshly. Ruth is one of tho stars of tho lcaguo .
+                    and a prolonged nbsenco would havo ruined Boston&amp;apos;s pennant chances.
+                    Also
+                    tho
+                    gate receipts would have suffered. So Bnttllns Ban beenme as meek ns a lamb
+                    and decided to &amp;#34;give the boy another chance.&amp;#34;
+                    The bad feature of this case Is that It will cnconrago others to pull tho same
+                    Btuff. A week&amp;apos;s layoff nnd $100 fine Is nice, gentle punishment,
+                    nnd
+                    tho
+                    chances
+                    are that some playora would pay twice as much for a shot at nn
+                    umpire&amp;apos;s
+                    Jaw.
+                    It cost McGraw $500 for punching Byron under tho grnnd stand nnd
+                    Ruth&amp;apos;a
+                    of
+                    fense was more flagrant thnn that. Ban seems to havo mado another mistake.
+                    Ho should, have used Ruth ns a horrlblo example and soaked him with a long
+                    layoff and a healthy tine.
+                    The dope has run to form at Pittsburgh. Barney Dreyfuss showed Jimmy
+                    Callahan the way to the gate nnd ho departed from tho city of smoke amid the
+                    crash and clatter of tho tlnwnro which was dragging behind. Callahan barf not
+                    made good with the Pirates nnd last year thero was talk of canning him. Ho
+                    is not popular with the players nnd they wouldn&amp;apos;t work for him.
+                    Thls
+                    also
+                    was
+                    the case when Jimmy was boss of the Whlto Sox. His ability was great, but his
+                    personality negative.
+                </text>
+            </result>
+            <result>
+                <id>https://chroniclingamerica.loc.gov/lccn/sn83030214/1918-09-06/ed-1/seq-11/ocr/</id>
+                <rel>1</rel>
+                <text>Fourth Inning Decides
+                    Battle
+                    By W. J. Macbeth
+                    CHICAGO, Sept. 5.?The Boston Red
+                    Sox won the opening gama of the
+                    series for the world&amp;apos;s baseball cham?
+                    pionship of 1918 from the Chicago
+                    Cubs at Comiskey Park this afternoon.
+                    Much of the customary hurrah of this
+                    annual classic was lacking, but the
+                    game was such a one as to llvs long in
+                    the annals of the diamond sport
+                    In a wonderful pitching duel, In
+                    which each manager staked his most for?
+                    midable southpaw, the mighty &amp;#34;Babo&amp;#34;
+                    Ruth vanquished the giant Vaughn by
+                    a score of 1 to 0. Though beaten,
+                    neither Vaughn nor tho supporting
+                    Cub cast was in any way disgraced.
+                    It was such a game as one seldom i
+                    sees in the final title battles, some- i
+                    thing which approached the acme of j
+                    perfection in every line.. As had been
+                    predicted, this one game at least made j
+                    good the prophecy that sterling box
+                    work would predominate. Perhaps
+                    because of the excellence of the rival
+                    pitchers the hard fought engagement
+                    did not develop the customary thrills
+                    one looks for in the blue ribbon of
+                    sports.
+                    A Perfect Game
+                    The game was just a bit too perfect
+                    to be as interesting as it might. There
+                    were no errors, either of commission
+                    or omission. There were wonderful
+                    fielding plays, it is true, but these
+                    were the exception rather than the
+                    rule, and they were, turned with a
+                    daring that made them appear scarce?
+                    ly part of mechanical, machine-like
+                    precision.
+                    To such excellent advantage did the
+                    rival boxmen appear that from the
+                    start it seemed but a question of
+                    which side would first score. The. fur?
+                    ther they went the stronger and bet?
+                    ter both Ruth and Vaughn appeared
+                    to grow. Rig Jim was unfortunate
+                    enough to havp the big break against
+                    him. Tltis was in the fourth inning,
+                    when was seen the or.I.v vital action
+                    of the afternoon.
+                    Vaughn, whose game on the whole
+                    was quite the equal of Ruth&amp;apos;s wizadrry,
+                    %vas unfortunate enough to han ? 1 out
+                    the first pa-.s of the game to llave
+                    Shean, first, up in the fourth, nnci from
+                    that gift resulted the only run of the.
+                    day, There followed two clean singles,
+                    from the bats of White.man and Mc
+                    Innis, the punch required to earn
+                    Shcan&amp;apos;s passage home.
+                    If Vaughn is tn he criticized at all
+                    for hi? slight lapse he should not. be
+                    criticized jor handing over the free
+                    ticket to Shean, but for apparent care
+                    le ? , in &amp;apos; ? tossing to Whitt man
+                    and Mclnnis later when he was in
+                    tight quarters. Every ball player and
+                    student of the game knows that Jim
+                    Vaughn lias nothing to brag about in
+                    the way of a curve ball. His fast one
+                    is his chief stock in trade. Yet Vaughn,
+                    in the hole, fed curve balls both to
+                    Whiteman and Mclnnis, and it was the se
+                    offerings against which the Red Sox
+                    batters lea.: to assure the visitors
+                    first blood of the tilt.
+                    Cold Wave Mars Attendance
+                    Py and by we will get down to the
+                    vitals of the game in question. A
+                    word or two now on the general color
+                    scheme, or rather lack of color. The
+                    crowd seemed smaller than th? re?
+                    ported 19,000 odd. Perhaps many were
+                    kept, away by the cold wave which hit
+                    the Windy City over night, following
+                    a doing?. There was nol the customary
+                    interest one expects in Chicago.
+                    The series attracted less attention
+                    from the start, than the pageant in
+                    Grant Park. If any betting developed
+                    over the result of this particular series
+                    those who made the wagers took good
+                    care to conceal their identity. In
+                    short, it was a sort of bust, this open?
+                    ing gam? of the 1918 baseball classic.
+                    Kven the players involved seemed to
+                    show less dash and spirit, than in years
+                    gone by. Perhaps the knowledge that
+                    the game has given away to war is too
+                    great an obsession and oppression for
+                    a profession which has been pampered
+                    and petted after the fashion of tem?
+                    peramental operatic stars.
+                    A genuine brand of world series
+                    weather prevailed. The wind swept in
+                    off&amp;apos; thp lake with penetrating force so
+                    that most, everybody was frozen to the
+                    marrow bef?te play was called.</text>
+            </result>
+            <result>
+                <id>https://chroniclingamerica.loc.gov/lccn/sn83030431/1918-09-12/ed-1/seq-11/ocr/</id>
+                <rel>1</rel>
+                <text>Eighth Inning (Cubs) Baitier batted
+                    In place of Deal. Whiteman canto in
+                    fast and took Barber&amp;apos;s liner off the top
+                    of the grass and made a complete som
+                    ersault. O&amp;apos;Farrell batted for KUlefer.
+                    O&amp;apos;Farrell sent a high fly to Scott. Mc
+                    Cabe batted for Tyler. Whiteman wat
+                    withdrawn nt this point and Ruth was
+                    sent to left field for Boston. Whltoman
+                    hurt his neck In making the catch of
+                    Barber&amp;apos;s drive. McCabo fouled out to
+                    Scott.
+                    i!lghth Inning (Sox) Hendrlx and
+                    O&amp;apos;Farrell became the battery for Chi
+                    cago and Zelder went to third In place
+                    of Deal. Mclnnls filed out to Mann.
+                    Scott lofted to PaBkert. Thomas also
+                    filed out to Paskert.
+                    Ninth Inning (Cubs) Flack up. Ball
+                    one. Strike one. Ball two. Strike two,
+                    a foul. Ball three. Flack fouled to
+                    Thomas. Hollocher filed out to Ruth.
+                    Mann up. Ball one. Strike one. Rail
+                    two. Mann grounded to Shan, who
+                    threw to Mclnnls for the out that ended
+                    the world&amp;apos;s aerie? of 1918.
+                    FOB &amp;#34;Sl&amp;apos;X&amp;#34; MMOKI1 FI1M).
+                    The Holy Names and the Macombs A.
+                    C. will start their three game sorlcs for
+                    Tub Sun Tobacco Fund at the Polo
+                    Grounds on Sunday. There will be no
+                    admission fee. On Sunday afternoon nt
+                    West Side Park, Jersey City, tho S5lcg
+                    feld Follies will play the American Rail
+                    way Express nine fbr The Sun fund.
+                    ine worm s series pinyrrs yejieruny ri-
+                    u rm wun mn popmiHo, ns ititi
+                    10,009 below yesterday&amp;apos;s turnout. Cold
+                    aeries. drew iC2.U0 persons, and MU.B90.ro
+                    the six same vtmie sot-Ciuuit series was
+                    arosrtec
+                    pnfw rereima Kirn hihih
+                    to - day&amp;apos;s same, for the entire IBIS series
+                    Game,
+                    lA.t.18
+                    $19,1Bft.0O
+                    sioi.i.i
+                    1.D19..10
+                    1017 Series (Six Games).
+                    Total paid attendance lSR.US.t
+                    Tntnl receipts M2.VH1H.nn
+                    I&amp;apos;laiers&amp;apos; share lnt,sa..n
+                    Karh club&amp;apos;s share ... . HA,;oo.ai
+                    National tHrnimUelon. share. . 4&amp;apos;J,SS7,SO
+                    HIGH LIGHTS AND SHADOWS
+                    IN ALL SPHERES OF SPORT
+                    By DANIEL.
+                    B&amp;apos;
+                    OBTON&amp;apos;8 record In world&amp;apos;s series atlll Is Immaculate.
+                    The
+                    success
+                    of tho Red Sox yesterday was
+                    sixth triumph In tho baseball
+                    been accounted for by the Red Sox and one by tho Braves. Again the
+                    American League has demonstrated Us superiority In tho series over the
+                    National LoaRuo and the series score now stands ten to flvo, with the gamo
+                    tally flfty-slx to thirty-eight. Of ths last nine Berles eight have gone to
+                    the younger organization, which sends Into the classics teams Trtilch seem
+                    to bo ablo to think and act quicker than those of the senior circuit, and
+                    sot m to ba better &amp;#34;money players.&amp;#34;
+                    It will be noted that Boston&amp;apos;s margin yesterday again was only one
+                    run. It scored every one of Its four victories over the Cubs by that ono
+                    run margin. That one run seems to be Just as sacred as the cod In tho
+                    Hub, for ln sixteen world&amp;apos;s series successes by Boston clubs
+                    thirteen
+                    havo
+                    been recorded by ono run margins. In 1916 the Red Sox won&amp;apos;all their
+                    four games from the Phillies by one run and dropped only one gamo to
+                    the Moran forces. The series this year was the fourth In tho fifteen played
+                    since 1903 that went six games. Tho other three were the 1906 series, ln
+                    which tha Chicago Americans won from the Cubs, tho 1911 affair, In
+                    which the Giants ran second to the Athletics, and tho 1917 competition, won
+                    by the Whlto Sox over4he01ants. Six series havo been decided in flvo games.
+                    Bed Sox, With Only One Error, Set Series Record.
+                    In past years tho world&amp;apos;s series usually developed .mediocre
+                    baseball,
+                    but this season It brought out soma of the finest mechanical and mental
+                    performances yet seen on any diamond In any sort of competition. The
+                    Ited Sox played Ave games without an error, and their lono aajsplay was
+                    a misjudged fly by Whiteman. That sets a fielding record which series to
+                    come hardly will excel. Tho Cubs too, with only flvo errors, played nbove
+                    world&amp;apos;s series form. The pitching was splendid and for the first
+                    time
+                    In
+                    our
+                    remembrance the series foiled to develop even ono homo run, and after
+                    all tho talk of what Ruth was going to do to the fencest At that Ruth
+                    brought out a threo baser which won tho fourth gamo for the Red Sox.
+                    Tho catching was of a very high calibre, with the result that each club
+                    stole only three bases.
+                    Hooper on Four Winners; Merkle on Five Losers.
+                    The series was the medium for considerable distinction for Harry
+                    Hooper of tho Red Sox, for It marked his presence on the fourth winner
+                    of the world&amp;apos;B title. Since&amp;apos; ho never has been on a
+                    world&amp;apos;s
+                    series loser ho
+                    holds a place never before attained by any player. Mclnnls and Strunk
+                    also achieved their fourth world&amp;apos;s scries success, but as members
+                    of
+                    tho
+                    Athletics they suffered a defeat that surprising reversal by the Braves In
+                    1914. Eddie Collins and Jack Barry also have been on four series winner,
+                    but they too were on tho beaten Athletics.
+                    Contrasted with Hooper&amp;apos;s record is. that of Fred Merkle, who has
+                    been
+                    on flvo world&amp;apos;s series losers and on nary a winner. Thrice he was
+                    with
+                    the Giants, once with the Superbas and now with the Cubs. If Chicago
+                    is looking for the hoodoo, there he Is. However, Fred can console himself
+                    with the financial return that comes even to tho losers.
+                    As to the Financial &amp;#34;Failure&amp;#34; ot the Scries.
+                    A great deal has been written about tho financial
+                    &amp;#34;failure&amp;#34; ot
+                    the
+                    series this year. It Just fell short of the 130,000 mark in attendance and
+                    the $180,000 mark In gato receipts. As figures go ln theso flays of con
+                    crete stadiums soatlng 60,000 these may Indicate failure, but contrasted
+                    with past series the 1914 classic made a good showing. Thn figures for
+                    the fourteen previous series show that eight foiled to reach tho attendance
+                    and flvo tho money mark reached by this year&amp;apos;s competition. WJicn
+                    we
+                    consider that this was a war time series and that the game had suffered
+                    considerable Injury ln many ways and from many sources, the showing
+                    made at the box office far exceeded expectation.&amp;#34;. John Heydler Is
+                    authority
+                    fur the statement that tho figures aro thousands ahead of tho National Com
+                    mission&amp;apos;s advance dope.
+                    Truesdell Leads Field
+                    in Seniors Golf Tourney
+                    Again showing their Indifference to ad -
+                    vanclng years veterans o&amp;#34;t the links
+                    strove to Improve on their earlier rounds
+                    ln the continuation of the Seniors Golf
+                </text>
+            </result>
+            <result>
+                <id>https://chroniclingamerica.loc.gov/lccn/sn83030214/1919-09-25/ed-1/seq-16/ocr/</id>
+                <rel>1</rel>
+                <text>
+                    White Sox Defeat Browns and Thereby Capture Pennant?Yankees Get Even Break
+                    Babe Ruth Hits 28th Homer,
+                    Ball Clearing Roof of Stand
+                    Longest Drive Ever Seen Under Shadow of Coogan&amp;apos;s
+                    Bluff Ties Up Game in Ninth, but Yankees Come
+                    Through With a Winning Counter in Thirteenth
+                    By W. 0. McGeehan
+                    Babe Ruth, of the Boston Red Sox, broke all home run records at
+                    , the Polo Grounds in the ninth inning of the second game with the Yankees.
+                    His twenty-eighth home run for tho season cleared the top of the right field
+                    grandstand, the longest hit that was ever seen since the days when the
+                    goats roamed Coogan&amp;apos;s Bluff and even before that. Numerically it
+                    places
+                    Ruth&amp;apos;s home run record one beyond the twenty-seven achieved by Ed
+                    Williamson in 1884.
+                    The blow came in the ninth inning,
+                    with thfe Yanks leading by one run in
+                    a tight pitching duel between young
+                    Waito Hoyt and Bob Shawkey, of the
+                    Yankees. Ruth had been making des?
+                    perate efforts to break the record all
+                    afternoon and had been swinging wild?
+                    ly in his eagerness, lie was the first
+                    man up. and his huge frame was
+                    shaking with anxiety to swing his bat
+                    on something tangible.
+                    Tho first ball was high and wide,
+                    and Ruth let it go by with a scowl.
+                    The second one was a slow curved ball,
+                    and it drifted by the port side of the
+                    young giant about waist high. Every
+                    ounce of the huge frame went into the
+                    swing. Ho met the ball fairly, and it
+                    shot toward the roof of the grandstand
+                    with iuch speed that few could follow
+                    its course. It cleared the roof, and
+                    Ruth started to trot around the bases.
+                    Ball Sails Out of Lot
+                    High on the corner of the roof a
+                    i:?oy who hud gone up to furl the flags,
+                    waved his hands excitedly to indicate
+                    that the bal i had gone out of the sta?
+                    dium into the lot next door. The an?
+                    nouncer ran down the field to verify
+                    this&amp;apos; by word of mouth. Some years
+                    back Shoeless ?loe Jackson held the
+                    record for long hits at tho Polo
+                    Grounds. His hit landed in the space
+                    between the left field stands and the
+                    bleachers. . Ruth&amp;apos;s hit went fairly out
+                    of the grounds, the first time that
+                    ball has been driven out of the place
+                    since it was built.
+                    There is no way of measuring the
+                    exact distance of the hit, but the writer
+                    is willing to believe that it is the long?
+                    est distance ever covered by a batted
+                    ball. Ruth once hit for 5t?5 feet at
+                    Tampa, Fla., during a spring series.
+                    Bt ing cheated out of his record by
+                    Quinn in the first game seemed to
+                    make the Babe more furious. He
+                    whaled Bob the Gob viciously all tho
+                    way. In the sixth inning he drove tho
+                    ball out to the center field fence for
+                    a three bagger. He was travelling so
+                    rapidly in nis eagerness to turn it
+                    into a home run that he emulated the
+                    storied boner of Fred Merkle, for?
+                    getting to touch second and was called
+                    out.
+                    In th&amp;#34; twelfth inning Ruth came
+                    pretty close to making another home
+                    run. He got another of those slow
+                    curves anrb-drovo it out to far centre
+                    tiold. Chicle Fewster wa? leaning
+                    against the centre field wall when he
+                    caught the ball. It is not good to feed
+                    the Babo slow curves.
+                    &amp;#34;What kind of a ball did you pitch
+                    him?&amp;#34; they demanded in the press box
+                    after Ruth had crowned himself king
+                    and supreme monarch of all home run
+                    kings.
+                    &amp;#34;It was a slow curve,&amp;#34; replied Robert
+                    moodily.
+                    Hoyt Makes Fine Showing
+                    If Ruth had not taken all of the
+                    limelight in that second game and for
+                    the entire afternoon, there would have
+                    been another Red Sox hero worthy of
+                    considerable space. The other niayer
+                    is young Waito Hoyt, the boy pitcher,
+                    who was first discovered by McGraw,
+                    Hoyt held tho Yankees hitless for nine
+                    inning- aftei they scored their first
+                    run. II?&amp;apos; nat only held them hitless
+                    &amp;apos;?ut he did not let a single one of therr
+                    reach first base, which.is some achieve?
+                    ment l&amp;apos;or a boy pitcher engaged in ?
+                    pitchers&amp;apos; duel with Bob Shawkey, one
+                    of the best, in the league.
+                    Hoyt got I.a- first pasting in the sec?
+                    ond inning. Wallie Pipp rolled one
+                    down toward first and beat it to th?
+                    bag, Pratt drove a long hit to left field
+                    sending Pipp to third anil taking sec
+                    ond on the throw-in. Duffy Lewis drove
+                    one to centre and scored Pipp. The*.
+                    the pitchers duel started in earnes
+                    and it was the tightest sort of garni
+                    until the ninth, when, as the playwrigh
+                    and Ring Lanier have observed, &amp;#34;Alonj
+                    came Ruth.&amp;#34;
+                    Through tho twelfth itining younj
+                    Waite Hoyt, with the nonchalance of i
+                    veteran, continued to block the Yankee
+                    otT first base. The crash came in thi
+                    thirteenth. Walter Pipp came out o
+                    a batting slump and drove the ball al
+                    most to the ceutrefield wall. The offi
+                    cia.1 traffic cop of the Yanks pullei
+                    him up at third base. Pratt lifted a fl;
+                    to left, field and Phipp came home, end
+                    ing about as sensational a game as ha
+                    been seen in the lee of Coogan&amp;apos;s Blul
+                    for many a day.
+                    Another sensational bit of work tha
+                    gets only mild nonce in tho dazzlin
+                    light of Ruth&amp;apos;s achievement was
+                    throw made by Chick Fewster in th
+                    tenth. Gilhooley, with one out, drov
+                    a hit to deep centre. It certainl
+                    looked good for a triple with a man c
+                    Gilhooley&amp;apos;s speed. But Fewster fielde
+                    tho ball smoothly and threw it t
+                    Baker, who gol the ball on the fin
+                    bound and tagged Gilhooley at tho ha?
+                    Mclnnls at His Best
+                    The Work of Stuffy Mel unis at fin
+                    baso too would have been more tha
+                    ^ prominent on any other afternooi
+                    ^ Mclnnis made a couple of one-han
+                    ? scoops and stops that would have mad
+                    W the repulatii.il nf any other first bast
+                    n,an.
+                    The sartorial sensation of the aftei
+                    noon was a high silk hat, about a fou
+                    quart ha&amp;apos;, which made its way into th
+                    press box after the start of the secon
+                    game. It adorned the head of Eddi
+                    Gorman, the old battler who formerl
+                    was associated with the late .lohn ]
+                    Sullivan. Tin? hat was attended by
+                    frock coat and a white carnation. A
+                    first tha i! iwd was sania what pu/.zlei
+                    They did not know whether the weare
+                    was a rich rolling mill worker como t
+                    buy the Yanks or an undertaker com
+                    to bury them.
+                    Hey Broun, who frequently is panne
+                    by disgruntled hams because he use
+                    to eke out an existence writing basi
+                    ball, should have been on deck to sc
+                    that baseball writers sometimes ai
+                    permitted to associate with four-tiuai
+                    liais and other refining mtluences. M
+                    Gorman apologized for the apparei
+                    ?t&amp;apos;stvjitatioustiess. He said that ho ha
+                    to attend an early wake with Sai
+                    (&amp;apos;rant* and had to come to the par
+                    dressed in order to bo there in tim
+                    Mr. Gorman prides himself on h
+                    punctuality and punctiliousness in th
+                    matter of wakes.
+                    In the first game Murderers&amp;apos; Row, t
+                    the Yankees, ate out of the hands t
+                    Sammy Jones in the pinches. Thn
+                    times the Yatiks had the bases tillei
+                    but&amp;apos; could not punch a single ru
+                    across. In all fourteen Yanks pet
+                    ?lively perished on tho paths. The
+                    g&amp;apos;jt nine bases on balls and two me
+                    were helped to first by errors.
+                </text>
+            </result>
+            <result>
+                <id>https://chroniclingamerica.loc.gov/lccn/sn84026749/1919-11-01/ed-1/seq-20/ocr/</id>
+                <rel>1</rel>
+                <text> Georsre Herman Ruth, better known as Battering Babe Ruth, prin ipai slugger
+                    in major league baseball these day?, has recently given ha world an insight into
+                    his peculiar brain procesa?if you will admit e possesses a brain. Incidentally,
+                    hie speech shows him to be quite in ccord with many others who think little of
+                    their plighted faith. Though ;? has two more years to complet? his contract
+                    ?with the Boston Red ex at a salary of $10,000 yearly. Ruth would sign a new one
+                    calling ?7T $20,000 yearly. Furthermore, he says he will not play with the Boe
+                    ra club unless his wishes are granted. . Last spring Ruth held out until the
+                    last minute. He wanted a alary of $15,000, if our memory be correct, but finally
+                    compromised by ?ft?ing a three-year-contract calling for a salary of $10,000
+                    yearly. All oat took place before he began hammering home runs until he had
+                    Token ail previous big league records for this stunt. He admitted that e was
+                    satisfied with the treatment given him by both Harry Frazee and Jd Barrow. He
+                    proved it by playing fine ball all season. But Babe has &amp;apos;?gtened to
+                    -erpent
+                    tongues. Now he would quit playing ball unless the ?oston club agrees to make a
+                    new contract calling for $20,000 a year. The Joke of the sltuatioa is that tarry
+                    Frasee la In pretty much of a &amp;#34; ? He has established a precedent W
+                    Ruth
+                    to
+                    follow by trading Carl is;, s to the New Tork club when the ubmarine funger grew
+                    tired of iking along with a losing club. So ar as Frasee ia concerned, he has
+                    ittlc argument to offer Ruth when &amp;apos;Bey ?ret together for a
+                    conference
+                    ?garehng this contract matter But ni? doesn&amp;apos;t absolve Ruth, just
+                    the
+                    ?am?
+                    ?y contract with the Boston club an t worth a dime,&amp;apos;&amp;apos;
+                    Maya
+                    told some
+                    Sew York baaeball writers &amp;#34;I&amp;apos;m go :ag to tear ?t up and
+                    demand
+                    $20 (XX)
+                    for next year. If I don&amp;apos;t get that ftsrure. I shall refuse to play
+                    ball
+                    and
+                    &amp;apos;he Boston club will have to sell my rei aase &amp;#34;Mays had
+                    a
+                    contract for
+                    three rears, but he made the Boston club *ei: him to the Yankees. Be Just luit
+                    the Red Sox and went home. If stave can get away with that kind of ?tuff you bet
+                    I can do the same. teatrate?. I? IlietgaL Tee, I signed for three years Last
+                    ??Bring but my contract contains the ten days&amp;apos; release clause,
+                    which
+                    makes
+                    ?t Illegal. If I lost an arm or a leg. &amp;apos;hey could let me go and I
+                    couldn&amp;apos;t ?ret the rest of this salary.
+                    &amp;#34;I&amp;apos;m the best
+                    drawing card
+                    in the mtne no? Ty Cobb&amp;apos;s salary is *r20 000 ? y??ar and I intend
+                    to
+                    net
+                    the ?ame money. You can say for me hat I shall not put on a Boston uni form next
+                    year if I don&amp;apos;t receive just JO ?WO Iron ma.&amp;#34; This must
+                    be
+                    great
+                    reading for those misguided fools in Boston who presented Battering Babe with a
+                    $500 diamoci at the close of the season a? an appreciation of his great work for
+                    the city. Some day the fans will a-et the rieht angle on what profes sional ball
+                    players think of them. Then they&amp;apos;ll cot out all those foolish
+                    pr?seentations of traveling bags, suits of clothes and diamond stick pins. not
+                    to speak of watches and charms. The players take them-?sure, why not. but they
+                    always have a laugh at the expense of the poor boobs who oaughed up their coin
+                    for the present. Ty ?bb niaarree?.
+                    Ty Cobb. who has had several
+                    tiffs with the Detroit club regarding
+                    the proper ?mount of salary he should
+                    draw, disagrees with Ruth tn the
+                    situation now faon?? the ponderous
+                    slugger Ty believes that a player is
+                    eetitled to all he can get from his
+                    club
+                    &amp;#34;But.** aays the Detroit veteran
+                    outfielder, &amp;#34;once a player signs a ;
+                    contract h? Is in honor bound to do ?
+                    SF
+                    HORNING
+                    LOANS
+                    On DiaunoiscU, Watizh?**??
+                    *ad Jeweiry
+                    (South of Highway Bridge)
+                    JCIUUI ??????
+                    ??? a-UCXt&amp;#34;.
+                    ?IVa-Xi rfclKHJS.
+                    Tafea ?*?**? ?* &amp;#34;?h ??- aad PvauseyV
+                    -rnktr erw. tmr ea?-sth ?*a? ?( ~
+                    M ?ata sv ??are Am ?ask wem.
+                    hl? level beat on the field until his
+                    engagement expires. A player In
+                    midseason has no moral or legal
+                    right to become dissatisfied with the
+                    terms of the agreement to which h?
+                    haa attached hia signatura. He
+                    must give the best be has to his
+                    owner That is the way to look at
+                    this matter, and 1 have no sympa
+                    thy at all for Mays or any other
+                    player who acts like him.&amp;#34;
+                    Ty Cohb ia Judging from his
+                    words, an honorable man. as well as
+                    brainy. He believes In sticking to
+                    his agreements. He very likely
+                    knows, too. that if&amp;apos;contracts are to
+                    be torn up at the whim of a player,
+                    the professional game is going to
+                    perish, ending once and for all the
+                    opportunities of all players to
+                    make a living at it.
+                    Heads Like Taefcs.
+                    The fact is that most professional
+                    ball players have heads like tacks,
+                    lacking space for brains. Every now
+                    and then something happens that
+                    proves this?Babe; Ruth&amp;apos;s statement is
+                    the latest.
+                    Baseball writers, when talking
+                    among themselves, are ever classify
+                    ing this player and that as either &amp;#34;a
+                    skull&amp;#34; or not. &amp;#34;A skull&amp;#34; is an ex
+                    ample of pure and unsullied ivory in
+                    the cranium. And the fans vsjould be
+                    amazed were they to get the inside
+                    stuff relative to many of their heroes.
+                    In the sport columns players are al
+                    ways being quoted, but seldom if ever
+                    are their literal words used. All
+                    newspapers ban certain forms of
+                    language, which are used by most
+                    players. Most newspapers require
+                    their writers to use plain and correct
+                    English. Many players use plain
+                    English, but it&amp;apos;s not always correct.
+                    The sports writers make them won
+                    ders to the fans when, as a matter of
+                    facL they&amp;apos;re &amp;#34;skulls.&amp;#34;
+                    Serte? Offen? ? fase..
+                    The annual world&amp;apos;s serle? Jamboree
+                    proves yearly Just what has been
+                    written above. You know those &amp;#34;ex
+                    pert?&amp;apos;&amp;#34; whose names appear over col
+                    umns and columns of stuff about the
+                    big series? Well, one in a million ac
+                    tually write their stuff. To our own
+                    knowledge. Eddie Collins is alone of
+                    all the &amp;#34;experts&amp;#34; who ever wrote the
+                    stuff appearing under his signature
+                    There may be others! but we* don&amp;apos;t
+                    know it.
+                    &amp;apos;Way back in 1000 we asked Eddie
+                    Collins to &amp;#34;write&amp;#34; for our columns a
+                    certain story. No. It wasn&amp;apos;t for The
+                    Washington Times. It wasn&amp;apos;t for a
+                    paperin this city. We expected him
+                    to come in. talk a bit, give us his
+                    ideas, and then watch us write it.
+                    But nothing like that. In he did
+                    com?, but bringing with him his story
+                    written in sn excellent hand. He
+                    apologised for not having a type
+                    writer His English was perfect. He
+                    seemed to know how to say exactly
+                    what he wanted to say.
+                    It was such a surpris? that we put
+                    on our hat and hied ourself to th*
+                    nearest place for a couple of quick
+                    ones. The shock was almost fataL
+                    Unknown, trained newspaper men
+                    write all those ream? of Junk usually
+                    credited to tb? diamond atara. That&amp;apos;?
+                    wj?y w. did not Inflict upon Washing
+                    ton fan? a ?tory of &amp;#34;How to Make
+                    Home Runs, by Babe Ruth.&amp;#34; when it
+                    wg? offered some weeks ago W?
+                    knew Juet about how much of It he
+                    could dig out in ten years Hi? latest
+                    statement &amp;apos;increase? our respect for
+                    oar own perspicacity.
+                </text>
+            </result>
+            <result>
+                <id>https://chroniclingamerica.loc.gov/lccn/sn83030431/1919-12-03/ed-1/seq-21/ocr/</id>
+                <rel>1</rel>
+                <text>Babe Ruth to Seek
+                    Jack Dempsey&amp;apos;s Crown
+                    LOS ANGELES, Dec. 2. It was
+                    announced to-day that Babo
+                    Buth, home run record holder,
+                    May become a professional boxer.
+                    &amp;#34;Kid&amp;#34; McCoy, a former pugilist, and
+                    Al St. John, a motion picture actor,
+                    to-day entered into an agreement by
+                    which McCoy will train Ruth for
+                    thirty days and if his report was fa
+                    vorable St John would finance a
+                    campaign of the outfielder to obtain
+                    a match with Jack Dempsey, heavy-,
+                    woight champion.
+                    Ruth has given up plans to become
+                    a motion picture actor. Tho home
+                    run champion satd ho used to be In
+                    preliminary boxing contests In Bal
+                    timore when ho was a mere boy.
+                    &amp;#34;I always have wanted to be a pro
+                    fessional boxer,&amp;#34; said &amp;#34;Ruth to-night,
+                    &amp;#34;but I gave up any future I might
+                    have had in that game to play base
+                    ball If McCoy and St. John think
+                    I have any future, t am willing to
+                    do everything they ask.</text>
+            </result>
+            <result>
+                <id>https://chroniclingamerica.loc.gov/lccn/sn83045433/1920-01-06/ed-1/seq-8/ocr/</id>
+                <rel>1</rel>
+                <text>BABE RUTH PURCHASED BY YANKEES FROM RED SOX FOR $125,000?OTHER SPORTj
+                    Yankees Buy Babe Ruth
+                    From Boston for $125,000
+                    Manhattan Tribe Purchase Home Run Slug
+                    ger From Hub City Team in Biggest Deal
+                    In History of Baseball.
+                    Boston, Jan. 5.?&amp;#34;Babe&amp;#34; Ruth, world champion home-run
+                    player
+                    of the Red Sox, has been bought by the New York Yankees, ac
+                    cording to an announcement made tonight. Harry H. Frazee, owner
+                    of the Red Sox, who told of the sale of Ruth, declined to name the
+                    price paid, but declared it was larger than had ever before been paid.
+                    The deal was said to have involved no other players.
+                    Estimates, unofficial, but said to have been based upon &amp;#34;inside
+                    information,&amp;#34; placed the figure at which
+                    &amp;#34;Babe&amp;#34; Ruth was
+                    told at
+                    ,the unprecedented sum of $125,000. Efforts to have this estimate
+                    substantiated or denied failed, but it was generally reported that the
+                    figure was not far from correct.
+                    Highest Figure Yet Paid.
+                    If the estimate proves accurate, the sale of Ruth not only ele
+                    vates the trading of baseball players to inclusion in the category of
+                    sugar, shoes, clothing and other high-priced necessities, but records
+                    a sale at more than double the highest price heretofore paid for
+                    a player.
+                    When Alexander and Killifer were traded from Philadelphia to
+                    Chicago, $55,000 changed hands. The greatest price paid for a single
+                    player up to the trading of Ruth was said to have been the $50,000
+                    given for Tris Speaker when he went from the Red Sox to Cleveland.
+                    Richardson Is Here for
+                    Meeting of Stockholders
+                    William II. Richardson, vie? pres
+                    ident and treasurer of the local base
+                    ball club, arrived in the city last
+                    night to attend the meeting of the
+                    board of directors of the Washing
+                    ton baseball club to be held at noon
+                    today.</text>
+            </result>
+            <result>
+                <id>https://chroniclingamerica.loc.gov/lccn/sn83030214/1920-08-22/ed-1/seq-53/ocr/</id>
+                <rel>1</rel>
+                <text>Did Babe Ruth Get Another One To-day?&amp;#34; | Not &amp;#34;How Did
+                    the Game
+                    Come
+                    Out?&amp;#34; *| Now the Great American Question 4 By W? O. McGeehan IF THE
+                    lata
+                    lamented Shakes? peare were a&amp;apos; baseball writer he might usa a line
+                    that
+                    he
+                    wested upon some more or less obscure hero of antiquity and say of
+                    &amp;#34;Babe&amp;#34; Ruth, &amp;#34;He doth bestride the narrow
+                    baseball
+                    fields like a
+                    Colos? sus.&amp;#34; For &amp;#34;Babe&amp;#34; Ruth is Hercules and
+                    Thor
+                    reincarnated, the
+                    Colossus of Swat. His bat is the club of Hercules and the hammer of Thor, the
+                    symbol of sheer, primitive might before which the puny folk bow and offer
+                    worship. But for the game of baseball, the youngest game of the youngest peo?
+                    ple, George Herman Ruth, the &amp;#34;Babe&amp;#34; Ruth who dwarfs all
+                    other
+                    personalities in the daily news, might have been a peaceful cigar maker or
+                    perhaps a third-rate heavyweight pugilist instead of the national idol of the
+                    American people. The &amp;#34;Babe&amp;#34; was Fortune&amp;apos;s
+                    dar? ling,
+                    though Fortune
+                    concealed her great and kindly intentions as far as he was concerned when the
+                    &amp;#34;Babe&amp;#34; was 2. boy. For the
+                    &amp;#34;Babe&amp;#34; was born
+                    left-hander!.
+                    Hercules was a right-hander. Thor never was pic? tured as wielding his hammer
+                    from the port side. None of the heroes of antiquity, as far as can be ascer?
+                    tained, was a southpaw. Harry Leon Wilson was the first novelist to put a
+                    left-hander in the near-hero class, and he i ;d it in a half-hearted
+                    fashion.
+                    Moreover, little George Herman
+                    Ruth was a half-orphan at a very
+                    early age and was sent to an insti?
+                    tution for orphans. He was nearly
+                    an orphan boy, and, according to
+                    the San ford and Merton books, he
+                    should have taken a morbid sort of
+                    point of view at an early age and
+                    learned something useful. But the
+                    youth of &amp;#34;Babe&amp;#34; Ruth was applied
+                    mostly to the study of the great
+                    American game of baseball.
+                    You are not going to draw any
+                    conventional moral from the early
+                    boyhood of &amp;#34;Babe&amp;#34; Ruth. He was
+                    not a particularly industrious or
+                    thrifty lad, chockful of conventional
+                    virtues. He was just a normal,
+                    chuckle-headed combination of Tom
+                    Sawyer and Huckleberry Finn. He
+                    Was Just natural and just human.
+                    FORTUNATELY the boyhood of
+                    &amp;#34;Babe&amp;#34; Ruth was intrusted to
+                    men who understand human
+                    nature, and particularly the human
+                    boy?the Christian Brothers, of Bal?
+                    timore. The fraternity is not limited
+                    to Baltimore. It is all over the
+                    *orld. It is made up of big-hearted
+                    ?fcn. consecrated to the work of mak
+                    lfig men out of the raw material.
+                    They had charge of the bringing
+                    UP of George Herman Ruth and
+                    &amp;apos;hey have turned over to the world
+                    ??Colossus of Swat. It is due to
+                    th*ir human understanding that
+                    George Herman Ruth was not
+                    wwarted and turned aside into more
+                    Wo**ic iine8 0f encjeavor,
+                    U?Kt lanatiQ than ?sqr *rf fbe
+                    I boy romances of Tattered Tom and
+                    Ragged Dick, by Horatio Alger jr.
+                    ; is the rise of &amp;#34;Babe&amp;#34; Ruth. The Al-,
+                    | ger heroes became mere bankers or
+                    traction magnates, but George Her
+                    | man Ruth, the waif of Baltimore, be?
+                    came &amp;#34;Babe&amp;#34; Ruth, at whose shrine
+                    &amp;apos; bankers and traction magnates burn
+                    incense. Ever and anon these jaded
+                    near-successes pick up the tape, not
+                    to see the condition of the market,
+                    but to learn whether the latest is the
+                    forty-fifth or forty-sixth home run
+                    ! knocked out by the &amp;#34;Babe&amp;#34; for the
+                    I season.
+                    And these heroes envy &amp;#34;Babe&amp;#34;
+                    ! Ruth the left-handed, the boy who
+                    ! was regarded as far from bright in
+                    ;his classes. For the &amp;#34;Babe&amp;#34; can hit
+                    them out with the joyous freedom of
+                    Hei-culcs swinging his club or Thor
+                    throwing his hammer through the&amp;apos;
+                    clouds. All the tricks of the pitchers
+                    are vain when he faces them, and all
+                    the walls of the baseball parks are
+                    lowered when his bat crashes against
+                    the baseball. Homer would have
+                    loved him if the blind singer had had
+                    a season pass to the Polo Grounds.
+                    THAT Ruth is the greatest bat?
+                    ter of them all is admitted by
+                    two members of the old Orioles;
+                    and when two members of the old
+                    Orioles agree upon anything, that
+                    makes it official and irrefutable. If
+                    there is anybody so ignorant of im?
+                    portant American history that he
+                    does not know who the old Orioles
+                    are, we will explain, more in pity
+                    than in indignation, that the old
+                    Orioles were members of the great?
+                    est baseball team of a generation or
+                    so ago.
+                    The two Orioles who made the ad?
+                    mission that &amp;#34;Babe&amp;#34; Ruth was the
+                    greatest baseball player in the whole
+                    world are Wilbert Robinson, mana?
+                    ger of the Brooklyn National League
+                    baseball team, and Joseph Kelly,
+                    scout for the Yankees. Both of these
+                    gentlemen are grandfathers and citi?
+                    zens of high repute in the city where
+                    they dwell, which also happens to i
+                    be the home of &amp;#34;Babe&amp;#34; Ruth. &amp;#34;Wil-1
+                    bert Robinson was a catcher, and still
+                    ; holds the world&amp;apos;s record for consecu?
+                    tive base hits in one game. Joseph
+                    Kelly was an outfielder of sorts on
+                    the old Orioles, and his present oc-1
+                    cupation is &amp;#34;ivory hunting,&amp;#34; looking
+                    upon baseball playera and appraising
+                    them ?at their true > jrtb to their
+                    employers and to the national pas?
+                    time.
+                    These two authorities admitted&amp;#34; to
+                    me in th? presence of witnesses that
+                    never, even in the days of the old
+                    Orioles, was there a baseball player
+                    who could hit like &amp;#34;Babe&amp;#34; Ruth. Con?
+                    sider the importance of this admis?
+                    sion. The members of the old Ori?
+                    oles are the most conservative per?
+                    sons in th vorld. Never before
+                    have they au. : ..ed that any player
+                    of the present was anywhere near as
+                    wonderful as tl\e players of their
+                    glorious day.
+                    &amp;#34;He can hit them harder than any?
+                    body, and he can hit them oftener,&amp;#34;
+                    they admitted from the fullness of
+                    their hearts. They did not qualify
+                    the statement, They did ?ob assert
+                    that the pitchers were less canny
+                    and that the ball parks were smaller.
+                    They admitted that the heroes of
+                    their day were lost in the shadow of
+                    the Colossus of Swat. They admitted
+                    that even in the days when the old
+                    Orioles were young &amp;#34;Babe&amp;#34; Ruth
+                    would have loomed up above them
+                    all.
+                    That Ruth broke all big league
+                    records for home run getting last
+                    year is in the book. That he has
+                    broken his own record this year and
+                    is on the way to setting a mark far
+                    beyond the misty horizons ?if the
+                    baseball world is l?o\vn. But the
+                    old Orioles have explained away the
+                    performances of other more modern
+                    heroes of baseball. Ruth&amp;apos;s achieve?
+                    ments they Jrott ungrudgingly.,
+                    That is almost as marvelous as the
+                    achievements themselves.
+                    .
+                    ONCE upon a time the youth of
+                    this land worshiped another
+                    young giant, a right-hander
+                    and an exponent of another and el?
+                    der sport?John L. Sullivan. The
+                    right arm of John L. ?Sullivan was
+                    mighty in its day, but the left arm i
+                    of &amp;#34;Babe&amp;#34; Ruth is mightier in its I
+                    day and generation in the matter of
+                    sheer numbers of worshipers.
+                    | They used to block the corridors
+                    of the hotels, and even the streets,1
+                    ? to see the mighty John L. pass. They
+                    do that in the case of &amp;#34;Babe&amp;#34; Ruth,
+                    I too. It is not for me to disparage
+                    | the memory of John L. Sullivan, the
+                    | gladiator, in th? days-cf hi? greatest
+                    -?
+                    ring glory, but I think, that his ad?
+                    mirers saw that particular John L.
+                    through rose glasses and that they
+                    worshiped an illusion.
+                    The John L. Sullivan of the later !
+                    day, the John L. who beat down his ?
+                    own worst enemy and lifted up his ;
+                    self-respect from the muck, was the
+                    John L. that should have been wor- ;
+                    shiped, for that John L. Sullivan :
+                    was a mighty gladiator. The John ,
+                    L. Sullivan who knocked out ring an- j
+                    tagonists with a right-hand punch to j
+                    the jaw was a mere mass of brawn ?
+                    and muscle, but the gray and fat old |
+                    John L. who conquered himself was i
+                    the true fighter.
+                    But we are considering the John L.
+                    that was the popular idol, the &amp;apos;
+                    brawny man who was followed by &amp;apos;
+                    the men and the boys and cheered
+                    when he stalked abroad. He was !
+                    not a particularly affable character.
+                    This big &amp;#34;Babe&amp;#34; Ruth is a far
+                    more likable person. He is full of i
+                    good nature and the joy of living.
+                    He is a modest enough young man, :
+                    and he knows his limitations, though ;
+                    he acknowledges no limitations as j
+                    far as the baseball diamonds and j
+                    the fences around them are con
+                    cerned. He is not falsely modest to
+                    the point of affectation, for he has
+                    that supreme confidence in himself
+                    that comes after certain achievement.
+                    But he will not play to the gallery
+                    consciously. He likes the gallery
+                    and he understands it, and he likes
+                    to have it understand him. ?
+                    Ruth is, perhaps, too simple, or
+                    it may be too wise, to try to fool his
+                    gallery, as other stars of his own ;
+                    game or stars in other lines of en?
+                    deavor have tried to do in vain. For
+                    nobody can fool his gallery. No
+                    truly wise man ever tried.
+                    THE best judges of a man ar?
+                    the men with whom he works !
+                    or with whom he plays.
+                    &amp;#34;Babe&amp;#34; Ruth, naturally, is the high?
+                    est salaried ballplayer on the New
+                    York Yankees. He might, if he were
+                    like some of the stars of baseball or i
+                    stars of some of the arts, claim all
+                    the privileges of a star and hold
+                    himself aloof from his fellow players.
+                    Here again is the simplicity or the
+                    wisdom of &amp;#34;Babe&amp;#34; Ruth. He plays
+                    the game with the team and for the
+                    team, and the men &amp;apos; he plays with
+                    know it and appreciate it. &amp;#34;Babe&amp;apos;
+                    Ruth will even make the &amp;#34;college
+                    try&amp;#34; to get a base on an impossible
+                    chance. The &amp;#34;cdllege try&amp;#34; is the vet?
+                    eran professional&amp;apos;s term of contempt
+                    for zealous endeavor that seems fu?
+                    tile on the facts of it.
+                    _ an the &amp;#34;Babe&amp;#34; *nake?th? two
+                    owners of the Yankees, Colonels I
+                    Ruppert and Huston, shudder with !
+                    apprehension when he hurls himself
+                    against a wall to get a fly ball, or I
+                    when he throws his huge bulk
+                    through the air in the effort to steal i
+                    a base. They rejoice in his spirit
+                    and his wholehearted way of play?
+                    ing, but at the same time they per?
+                    spire with apprehension lest some?
+                    thing should happen that would de?
+                    prive them of the most expensive in?
+                    vestment in professional baseball.
+                    Some stars have disrupted base?
+                    ball teams, rousing jealousies, but
+                    &amp;#34;Babe&amp;#34; Ruth, admittedly the great?
+                    est star of them all, has made the
+                    Yankees a team. The advent of the
+                    &amp;#34;Babe&amp;#34; has brought them the chance
+                    of that &amp;#34;world&amp;apos;s scries dough,&amp;#34; which
+                    should be something like $7,000 a
+                    player. It has also made them the
+                    team of the big leagues. They do not
+                    begrudge the &amp;#34;Babe&amp;#34; the homage
+                    that is paid him. As far as Ruth
+                    is concerned, there is no professional
+                    jealousy on the Yankee team.
+                    Just to what extent the present
+                    prosperity of professional baseball
+                    is due to &amp;#34;Babe&amp;#34; Ruth I would not
+                    care to say, but it is considerable
+                    When I first trailed West with tht
+                    Yankees, they told me in Chicagc
+                    that there had been little or no in
+                    tereat in the Chicago White Sox. Bu
+                    I when the Yankees came ta Cbicagi
+                    they turned out to the extent of 20,
+                    000 a day and upward to see the
+                    &amp;#34;Babe&amp;#34; &amp;#34;bust one.&amp;#34;
+                    Once, with the score 2 to 1 in the
+                    eighth and a tense pitchers&amp;apos; duelen,
+                    the Chicago pitcher passed &amp;#34;Babe&amp;#34;
+                    Ruth. Ten thousand people started
+                    to walk out of Comiskey Park.
+                    There remained yet the chance of
+                    the melodramatic ninth inning rally,
+                    but the ten thousand had lost all
+                    interest in the game for the after?
+                    noon. It was clear thatr they were
+                    not going to see &amp;#34;Babe&amp;#34; Ruth knock
+                    a home run, and nothing else mat?
+                    tered.
+                    Civic pride, inter-city rivalry, in?
+                    terest in the national game were
+                    minor considerations. The &amp;#34;Babe&amp;#34;
+                    was not due to &amp;#34;bust one.&amp;#34;
+                    IN CLEVELAND 1 was talking
+                    to two tired business men early
+                    in the afternoon.
+                    Said one of them gravely:
+                    &amp;#34;This &amp;apos;Babe&amp;apos; Ruth is a menace. He
+                    is responsible to a large degree for
+                    i the lack of production in these
+                    : manufacturing towns around the
+                    Lakes. Go out to the ball park to?
+                    day and you will see thousands of
+                    young men taking the afternoon off
+                    just to see &amp;apos;Babe&amp;apos; Ruth &amp;apos;bust
+                    one.&amp;apos;
+                    i It is really quite serious. What are</text>
+            </result>
+            <result>
+                <id>https://chroniclingamerica.loc.gov/lccn/sn83045462/1963-11-17/ed-1/seq-135/ocr/</id>
+                <rel>1</rel>
+                <text>Russell and the great Babe
+                    Ruth pose at opening
+                    day ceremonies at Yankee
+                    Stadium. Russell
+                    threw open the gates to let in
+                    the first fans.
+                    7
+
+                </text>
+            </result>
+            <result>
+                <id>https://chroniclingamerica.loc.gov/lccn/sn83030214/1920-08-22/ed-1/seq-53/ocr/</id>
+                <rel>1</rel>
+                <text>&amp;#34;Did Babe Ruth Get Another One To-day?&amp;#34; | Not
+                    &amp;#34;How Did
+                    the Game
+                    Come Out?&amp;#34; *| Now the Great American Question 4 By W? O. McGeehan IF
+                    THE
+                    lata lamented Shakes? peare were a&amp;apos; baseball writer he might usa a
+                    line
+                    that he wested upon some more or less obscure hero of antiquity and say of
+                    &amp;#34;Babe&amp;#34; Ruth, &amp;#34;He doth bestride the narrow
+                    baseball
+                    fields like a
+                    Colos? sus.&amp;#34; For &amp;#34;Babe&amp;#34; Ruth is Hercules and
+                    Thor
+                    reincarnated, the
+                    Colossus of Swat. His bat is the club of Hercules and the hammer of Thor, the
+                    symbol of sheer, primitive might before which the puny folk bow and offer
+                    worship. But for the game of baseball, the youngest game of the youngest peo?
+                    ple, George Herman Ruth, the &amp;#34;Babe&amp;#34; Ruth who dwarfs all
+                    other
+                    personalities in the daily news, might have been a peaceful cigar maker or
+                    perhaps a third-rate heavyweight pugilist instead of the national idol of the
+                    American people. The &amp;#34;Babe&amp;#34; was Fortune&amp;apos;s
+                    dar? ling,
+                    though Fortune
+                    concealed her great and kindly intentions as far as he was concerned when the
+                    &amp;#34;Babe&amp;#34; was 2. boy. For the
+                    &amp;#34;Babe&amp;#34; was born
+                    left-hander!.
+                    Hercules was a right-hander. Thor never was pic? tured as wielding his hammer
+                    from the port side. None of the heroes of antiquity, as far as can be ascer?
+                    tained, was a southpaw. Harry Leon Wilson was the first novelist to put a
+                    left-hander in the near-hero class, and he i ;d it in a half-hearted
+                    fashion.
+                    Moreover, little George Herman
+                    Ruth was a half-orphan at a very
+                    early age and was sent to an insti?
+                    tution for orphans. He was nearly
+                    an orphan boy, and, according to
+                    the San ford and Merton books, he
+                    should have taken a morbid sort of
+                    point of view at an early age and
+                    learned something useful. But the
+                    youth of &amp;#34;Babe&amp;#34; Ruth was applied
+                    mostly to the study of the great
+                    American game of baseball.
+                    You are not going to draw any
+                    conventional moral from the early
+                    boyhood of &amp;#34;Babe&amp;#34; Ruth. He was
+                    not a particularly industrious or
+                    thrifty lad, chockful of conventional
+                    virtues. He was just a normal,
+                    chuckle-headed combination of Tom
+                    Sawyer and Huckleberry Finn. He
+                    Was Just natural and just human.
+                    FORTUNATELY the boyhood of
+                    &amp;#34;Babe&amp;#34; Ruth was intrusted to
+                    men who understand human
+                    nature, and particularly the human
+                    boy?the Christian Brothers, of Bal?
+                    timore. The fraternity is not limited
+                    to Baltimore. It is all over the
+                    *orld. It is made up of big-hearted
+                    ?fcn. consecrated to the work of mak
+                    lfig men out of the raw material.
+                    They had charge of the bringing
+                    UP of George Herman Ruth and
+                    &amp;apos;hey have turned over to the world
+                    ??Colossus of Swat. It is due to
+                    th*ir human understanding that
+                    George Herman Ruth was not
+                    wwarted and turned aside into more
+                    Wo**ic iine8 0f encjeavor,
+                    U?Kt lanaiQ than ?sqr *rf fbe
+                    I boy romances of Tattered Tom and
+                    Ragged Dick, by Horatio Alger jr.
+                    ; is the rise of &amp;#34;Babe&amp;#34; Ruth. The Al-,
+                    | ger heroes became mere bankers or
+                    traction magnates, but George Her
+                    | man Ruth, the waif of Baltimore, be?
+                    came &amp;#34;Babe&amp;#34; Ruth, at whose shrine
+                    &amp;apos; bankers and traction magnates burn
+                    incense. Ever and anon these jaded
+                    near-successes pick up the tape, not
+                    to see the condition of the market,
+                    but to learn whether the latest is the
+                    forty-fifth or forty-sixth home run
+                    ! knocked out by the &amp;#34;Babe&amp;#34; for the
+                    I season.
+                    And these heroes envy &amp;#34;Babe&amp;#34;
+                    ! Ruth the left-handed, the boy who
+                    ! was regarded as far from bright in
+                    ;his classes. For the &amp;#34;Babe&amp;#34; can hit
+                    them out with the joyous freedom of
+                    Hei-culcs swinging his club or Thor
+                    throwing his hammer through the&amp;apos;
+                    clouds. All the tricks of the pitchers
+                    are vain when he faces them, and all
+                    the walls of the baseball parks are
+                    lowered when his bat crashes against
+                    the baseball. Homer would have
+                    loved him if the blind singer had had
+                    a season pass to the Polo Grounds.
+                    THAT Ruth is the greatest bat?
+                    ter of them all is admitted by
+                    two members of the old Orioles;
+                    and when two members of the old
+                    Orioles agree upon anything, that
+                    makes it official and irrefutable. If
+                    there is anybody so ignorant of im?
+                    portant American history that he
+                    does not know who the old Orioles
+                    are, we will explain, more in pity
+                    than in indignation, that the old
+                    Orioles were members of the great?
+                    est baseball team of a generation or
+                    so ago.
+                    The two Orioles who made the ad?
+                    mission that &amp;#34;Babe&amp;#34; Ruth was the
+                    greatest baseball player in the whole
+                    world are Wilbert Robinson, mana?
+                    ger of the Brooklyn National League
+                    baseball team, and Joseph Kelly,
+                    scout for the Yankees. Both of these
+                    gentlemen are grandfathers and citi?
+                    zens of high repute in the city where
+                    they dwell, which also happens to i
+                    be the home of &amp;#34;Babe&amp;#34; Ruth. &amp;#34;Wil-1
+                    bert Robinson was a catcher, and still
+                    ; holds the world&amp;apos;s record for consecu?
+                    tive base hits in one game. Joseph
+                    Kelly was an outfielder of sorts on
+                    the old Orioles, and his present oc-1
+                    cupation is &amp;#34;ivory hunting,&amp;#34; looking
+                    upon baseball playera and appraising
+                    them ?at their true > jrtb to their
+                    employers and to the national pas?
+                    time.
+                    These two authorities admitted&amp;#34; to
+                    me in th? presence of witnesses that
+                    never, even in the days of the old
+                    Orioles, was there a baseball player
+                    who could hit like &amp;#34;Babe&amp;#34; Ruth. Con?
+                    sider the importance of this admis?
+                    sion. The members of the old Ori?
+                    oles are the most conservative per?
+                    sons in th vorld. Never before
+                    have they au. : ..ed that any player
+                    of the present was anywhere near as
+                    wonderful as tl\e players of their
+                    glorious day.
+                    &amp;#34;He can hit them harder than any?
+                    body, and he can hit them oftener,&amp;#34;
+                    they admitted from the fullness of
+                    their hearts. They did not qualify
+                    the statement, They did ?ob assert
+                    that the pitchers were less canny
+                    and that the ball parks were smaller.
+                    They admitted that the heroes of
+                    their day were lost in the shadow of
+                    the Colossus of Swat. They admitted
+                    that even in the days when the old
+                    Orioles were young &amp;#34;Babe&amp;#34; Ruth
+                    would have loomed up above them
+                    all.
+                    That Ruth broke all big league
+                    records for home run getting last
+                    year is in the book. That he has
+                    broken his own record this year and
+                    is on the way to setting a mark far
+                    beyond the misty horizons ?if the
+                    baseball world is l?o\vn. But the
+                    old Orioles have explained away the
+                    performances of other more modern
+                    heroes of baseball. Ruth&amp;apos;s achieve?
+                    ments they Jrott ungrudgingly.,
+                    That is almost as marvelous as the
+                    achievements themselves.</text>
+            </result>
+            <result>
+                <id>https://chroniclingamerica.loc.gov/lccn/sn83045389/1920-07-18/ed-1/seq-49/ocr/</id>
+                <rel>0</rel>
+                <text></text>
+            </result>
+            <result>
+                <id>
+                    https://chroniclingamerica.loc.gov/lccn/sn85047513/1963-08-29/ed-1/seq-15/#date1=1756&amp;index=2&amp;rows=20&amp;words=BABE+Babe+Ruth+RUTH&amp;searchType=basic&amp;sequence=0&amp;state=&amp;date2=1963&amp;proxtext=Babe+Ruth&amp;y=0&amp;x=0&amp;dateFilterType=yearRange&amp;page=1</id>
+                <rel>0</rel>
+                <text></text>
+            </result>
+            <result>
+                <id>https://chroniclingamerica.loc.gov/lccn/sn83030214/1922-07-09/ed-1/seq-64/ocr</id>
+                <rel>0</rel>
+                <text></text>
+            </result>
+            <result>
+                <id>
+                    https://chroniclingamerica.loc.gov/lccn/sn83045462/1935-09-29/ed-1/seq-97/#date1=1756&amp;index=0&amp;rows=20&amp;words=Babe+Ruth&amp;searchType=basic&amp;sequence=0&amp;state=&amp;date2=1963&amp;proxtext=Babe+Ruth&amp;y=0&amp;x=0&amp;dateFilterType=yearRange&amp;page=1</id>
+                <rel>0</rel>
+                <text></text>
+            </result>
+        </results>
+    </topic>
+    <topic>
+        <id>https://guides.loc.gov/chronicling-america-mothers-day</id>
+        <results>
+            <result>
+                <id>
+                    https://www.loc.gov/resource/sn85066387/1912-05-11/ed-1/?sp=1&amp;q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&amp;st=text&amp;r=-0.294,-0.079,1.589,1.589,0</id>
+                <rel>1</rel>
+                <text>Sons and Daughters Unite to
+                    Commemorate Mothers'
+                    Day in the City
+                    How many of the Juniors have
+                    heard of JMiss Annie Jarvis?
+                    She is the Avoman who brought
+                    about the establishment of a
+                    "mothers' day" in almost every
+                    stale in the union, not to mention
+                    the nations of the world and
+                    whose indefatigable efforts have
+                    served to arouse in every man,
+                    woman and child a sense of the
+                    beauty of motherhood and the
+                    duty we owe to our mothers.
+                    Miss Jarvis is a Philadelphia
+                    woman. A few years ago, alone
+                    and unaided she started the
+                    "mothers' day" movement, and so
+                    eloquent was her plea that the
+                    idea found instant and hearty ac
+                    ceptance. Since then the plan has
+                    been gaining ground and within
+                    the last four years the setting
+                    aside of a mothers' day has been
+                    accepted and indorsed by nearly
+                    every governor in the union and
+                    many of the crowned heads of Eu
+                    rope.
+                    "Mothers' day" falls on the sec
+                    ond Sunday of May.
+                    Tomorrow is the day when the
+                    Junior boys and girls pay special
+                    court to mother. On all the other
+                    holidays, remember, mother pays
+                    special attention to you, but on
+                    the second Sunday in May condi
+                    tions are reversed a bit and moth
+                    er comes in for the lion's share
+                    of pleasures.
+                    See if you can't do something
+                    especially nice for her tomorrow.
+                    Show her how much you care for
+                    her and how very dear she is to
+                    you. Help.her with the work
+                    around the house, wait on her for
+                    a change and give her the benefit
+                    of her holiday.
+                    "Mothers* day" will be celebrat
+                    ed in many of the churches tomor**
+                    row, but that is not enough, boys
+                    and girls. It should be celebrated
+                    in your hearts as well. There is
+                    no one in all the world who will
+                    do as much for you as will your
+                    mother. When every one else has
+                    forsaken you and you haven't a
+                    friend on earth, your mother will
+                    stand by you with words of en
+                    couragement and love.
+                    See if you can't make her to
+                    morrow a very pleasant one in
+                    deed.
+                    The white carnation has been
+                    chosen as the flower symbolical
+                    of filial devotion and the florists
+                    are crowding their windows with
+                    the beautiful emblems of purity
+                    and love, for everyone's going to
+                    make a big bow to mother tomor
+                    row.
+                    Don't forget to wear a white
+                    carnation and wish mother the
+                    happiest returns of the day.</text>
+            </result>
+            <result>
+                <id>
+                    https://www.loc.gov/resource/sn86063381/1912-05-11/ed-1/?sp=2&amp;q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&amp;st=text&amp;r=-0.233,-0.073,1.466,1.466,0</id>
+                <rel>1</rel>
+                <text>
+                    "White flower for Mother dead
+                    Bright flower for Mother living
+                    It was five years ago that Miss An-
+                    na Jarvis, of Philadelphia, con-
+                    ceived the idea of selecting one day
+                    of the year upon which the devotion
+                    to mothers' memory should be ob-
+                    served, and the second Sunday in
+                    May being the day upon which fell
+                    the anniversary of her mother's
+                    death, that day was chosen by her as
+                    Mothers' day.
+                    Miss Jarvis wrote to churches, so-
+                    cieties, public officials, noted people
+                    and the press and all joined in the
+                    movement which she had originated
+                    It has spread so rapidly that this
+                    year a majority of the governors of
+                    states have issued proclamations set-
+                    ting aside tomorrow as Mothers' day
+                    and suggesting that it be made one of
+                    the state's memorial days.
+                    The original plan was that each
+                    one wishing to honor his mother
+                    would wear a white carnation, but
+                    the demand proving greater than the
+                    supply, it was decided to wear a
+                    white carnation for the dead and a
+                    bright flower for the living So wear
+                    a flower tomorrow, white or bright,
+                    "in honor of the best mother in the
+                    world, your mother."
+                    The Nymore Road.
+                    At the railroad and warehouse com-
+                    mission hearing yesterday at Nymore,
+                    one fact stood out with startling dis-
+                    tinctness ^Every witness examined
+                    for Nymore testified that because of
+                    the j?oad between Nymore and Be-
+                    midji, loads coming to Bemidjl from
+                    IMHk Wl
+                    the country south and east of Ny-
+                    more had to be cut in two at Nymore
+                    and two trips made to coVer the last
+                    mile
+                    It is because of this condition,
+                    more than any other, that the people
+                    of Nymore are asking the commission
+                    to order a depot or depots built by
+                    the railroads A depot at Nymore
+                    will be a body blow to Bemidjl, as
+                    it will cut oft a tonnage revenue of
+                    about $10,000 a year, but if the com-
+                    mission orders one, Bemidji has only
+                    itself to blame The road should
+                    have been put in hist class shape
+                    long ago as it is one of the main
+                    traffic arteries to this city
+                    Foitunately for Bemidjl, the com-
+                    mission was taken to Nymore over
+                    the railroad tracks If it had been
+                    en over the road itself, it might
+                    have given a decision on the spot
+                    At any rate, whether or not the depot
+                    is ordered, the road should be put in
+                    first-class shape at once
+                    The Commercial club committee on
+                    highways was instructed last Tues-
+                    day night to prepare figures on the
+                    cost of paving the Nymore road
+                    These, with figures on the cost of
+                    making a sand or macadam road, are
+                    to be presented to the city council at
+                    its next meeting For several years
+                    past $150 to $200 per year has been
+                    spent on this road and it is nof much
+                    better today than when Chief Bemid*
+                    ji lived on the lake shore
+                    Not only the people at Nymore are
+                    asking for this depot, but the farmers
+                    living out in that country who have
+                    to use this road want better shipping
+                    facilities A paved street from Be-
+                    midji to Nymore would remedy the
+                    condition and remove a good cause
+                    for complaint
+                </text>
+            </result>
+            <result>
+                <id>
+                    https://www.loc.gov/resource/sn84026749/1914-05-07/ed-1/?sp=7&amp;q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&amp;st=text&amp;r=-0.174,-0.067,1.349,1.349,0</id>
+                <rel>1</rel>
+                <text>MISS ANNA JARVIS,
+                    Philadelphia woman, who originated
+                    "Mothers' Day," and secured national
+                    recognition for it.
+                    MRS
+                    .U
+                    I
+                    SPEAKER AT GUILD
+                    Miss Mabel T. Boardman Also
+                    on Program at National
+                    Convention.
+                    LONDON, May 7. The woman's suf
+                    frago bill was rejected last night by the
+                    house of lords by a vote of 1M to 60.
+                    Speeches in favor of tho bill were
+                    made by Baron Courtney, of Penwlth.
+                    the Earl of Lytton. and Baron Wll
+                    loughby de Broke, whllo Baron Wear-,
+                    dale, the Marquis of Crowe, and Vis
+                    count St. Aldwyn spoke against It.
+                    Viscount St Aldwyn said the argu
+                    ments for the extension of tho parlia
+                    mentary suffrage to women, which were
+                    based on the results obtained in those
+                    States of the United States where it had
+                    been' tried, did not apply in the United
+                    Kingdom, because in those States men
+                    were In the majority, while In the Brit
+                    ish Isles they were in the minority.
+                    Consequently, ho argued, the granting
+                    of the parliamentary vote to women In
+                    the British Isles would mean the hand
+                    ing over the destinies of tho country
+                    and of the empire to a female elec
+                    torate, which, he said, was a perilous
+                    step to take.
+                    Among those who voted for the bill
+                    were Viscount Money, of Blackburn:
+                    the Archbishop of Canterbury, and the
+                    Bishops of London, Hereford, Bangor,
+                    and St. Asaph.
+                    Those who voted against the bill in'
+                    eluded the Marauls of Lansdowne. Vis
+                    count Esher, the Marquis Salisbury, the
+                    Earl of Halsbury, and the Duke of
+                    Northumberland.
+                    i Ixf i I I I 1 1 1 I 1 1 rr 1 1 I aBatxlTE 1 1 1 1 1 1 1 1 1 j 1 1 II 1 1 1' Tf
+                    "MMBn lill IlI-LLIlI I J 1 1 1 1 ft
+                    MMMninniiniiiiitttfi"
+                    "TIZ" F
+                    DR ACHING
+                    Addresses by Mrs. Truman II. New
+                    berry, of Detroit, national president of
+                    the Needlework Guild of America, and
+                    Miss Mabel T. Boardman, president of
+                    the American Red Cross, featured the
+                    annual meeting of the oranch presidents
+                    of the Needlework Guild at the Raleigh
+                    today.
+                    Reports were read by Mrs. Oliver S.
+                    Keely, of Philadelphia, national re
+                    cording secretary. Miss Rosamond K.
+                    Bender, national corresponding secre
+                    tary. Mrs. D. Edwin Irvlnr. national
+                    treasurer, and the v arlous brunch
+                    presidents
+                    More than ljo members were In at
+                    tendance, and after luncheon icports
+                    were continued. A reception will be
+                    holri this nfternnnn a. vr. r1alr.V.
+                    the members of the District of Columbia
+                    -needlework Guild.
+                    The officers of the guild are. Mrs.
+                    llcnrv Arnold Peckham, president Miss
+                    Mabel I. Uoardman, Mre. Os"ar V.. Un
+                    derwood, Miss Anna B. Abbott, and Mrs.
+                    Acheson F. Hassan, vice presidents:
+                    Mi. George T. Dunlop. treasurer, and
+                    Mrs. Richard B. Watrous, secretary.
+                    Mrs. Woodrow Wilson has for years
+                    been an active member of the guild, and
+                    Is now honorary president of the Dis
+                    trict branch.
+                    f
+                    Raymond Geis'er, eight, of STA ,Ala- j
+                    bama avenue southeast, rldinc a' bi- I
+                    cycle at Alabama avenue and Fifth j
+                    street youtheat last night, was knock- j
+                    ed from the wheel In a collision with j
+                    an automobllp and bruised about the J
+                    head and body He was taken to I
+                    Casualtv Hospital. I
+                    R
+                    E. TIRED FEET
+                    "TIZ" for chafed, puffed-up,
+                    sweaty, calloused feet
+                    and corns.
+                    A Bargain "Every Hour on the Hour" In
+                    OUR GARMENT SECTION FRIDAY
+                    And Prices Are Sensationally Low
+                    v...r fAAt.f.M Viit fa.t ffrol tlrr1
+                    puffed up, chafed, aching, sweaty and
+                    iiiey neea nz
+                    fTTV molraB fnnt T.mft rlf flhl V frh
+                    and sore-proof. "TIZ" takes the pain
+                    pr.u nurn ngm out oi corns, tauuuaca
+                    ilia UUIII'"!!'. 1 W fcMC ftiuui
+                    foot-gladdener the world ha ever
+                    known.
+                    Get a 15-cent box of "TIZ" at any
+                    drug sf' and end foot torture for a
+                    whole year Never have tired, aching,
+                    sweaty, smelly feet; your shoes will nt
+                    fine and you'll only wish you had tried
+                    "TIZ" sooner. Acept no substitute.
+                    Advt
+                    Are Your Affairs Upside Down
+                    Send for Booklet-
+                    Yonr House</text>
+            </result>
+            <result>
+                <id>
+                    https://www.loc.gov/resource/sn83045433/1914-05-10/ed-1/?sp=3&amp;q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&amp;st=text&amp;r=-0.163,-0.066,1.326,1.326,0</id>
+                <rel>1</rel>
+                <text>Wear a White Carnation
+                    President Is Highly Praised
+                    for Recognizing Movement
+                    by Issuing National Proc
+                    lamation; This la "Mothers Day."
+                    Throughout the city, and In every Part
+                    of the United States, the people are ob
+                    serving the one day In the year dedi
+                    cated to the mothers of the race.
+                    Prominent "clergymen and members of
+                    the laity Joined In expressions of appre
+                    ciation yesterday, for the act cf the
+                    President In issuing a proclamation, of
+                    ficially designating the second Sunday
+                    in May as Mothers' Day." This action
+                    comes as a result of the Senate's adop
+                    tion of the resolution offered by Senator
+                    Sheppard, asking the President to offl
+                    clally designate "Mothers' Day."
+                    Wrnr a While Carnatton.
+                    The white carnation will be wom by
+                    thousands In Washington, the carnation
+                    being; the symbol of "Mothers' Day."
+                    Local florists, however, have served no
+                    tice that the carnation supply Is short
+                    this spring and it is quite likely that
+                    white flowers of other varieties also will
+                    be worn.
+                    Mgr. William T. Russell, pastor St.
+                    Patrick's Catholic Church. In. a state
+                    ment prepared for the Washington Herald
+                    yesterday, said:
+                    "The decision of Congress and the
+                    President to recognize officially, one
+                    day In the year when the mothers of
+                    the nation will be honored by the
+                    whole people. Is a most laudable art.
+                    No nation can rise higher than the
+                    standard of its mothers and to the
+                    mothers of America we owe what
+                    ever (we have gained in the movement
+                    tonard a higher and nobler type of
+                    American manhood and womanhood."
+                    RevTJr. Abram Simon, pastor of the
+                    Washington Hebrew Congregation, also
+                    commented on the observance of "Moth
+                    ers' Day-"
+                    'Mothers' Day." finds a most
+                    hearty" welcome In the household of
+                    Israel." said Dr. Simon. "With us.
+                    her due and our duty have become
+                    proverbial for purity, affection and
+                    devotion. From the patriarchal day
+                    .until this, motherhood has spoken
+                    wilh a Hebrew accent. But mother
+                    hood was not detached from father
+                    hood obligations. It is parenthood
+                    GUNS WITH IT
+                    CONTINUED PIOM PACE ONE.
+                    munitions f war would not only appear
+                    favorably to the people of this coun
+                    try 1 ut would clearly put the United
+                    States government under a very consid
+                    erable obligations to the big German shlpr-
+                    ping Interests. This obligation wouid
+                    come at a time, too when there has
+                    been considerable talk in Congress of
+                    'eolation against shipping pools.
+                    Ilntelieit Vera Cms.
+                    According to the report received from
+                    Admiral Badger. the Kronprinzessln
+                    Je ille reached Vera Cruz at 6 o'clock
+                    yesterday morning. She had left Puerto,
+                    Mexico, Frldal night, and the navy of
+                    ficers figured that she had reached that
+                    port Frldaj morning. This would have
+                    given her plenty of time to have un
+                    loaded her cargo of war materials. If
+                    that nas intended.</text>
+            </result>
+            <result>
+                <id>
+                    https://www.loc.gov/resource/sn85058396/1916-05-19/ed-1/?sp=9&amp;q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&amp;st=text&amp;r=-0.271,-0.077,1.542,1.542,0</id>
+                <rel>1</rel>
+                <text>"Whereas, liy a Joint Resolution np
+                    proved May 8th, 1914, designating tho
+                    second Sunday in May as Mothers'
+                    i Day and for other purposes, tho Presi
+                    dent is authorized nnd requested to
+                    issuo a proclamation calling upon the
+                    i Government officials to display the
+                    United States Flag on all Government
+                    buildings, nnd tho peoplo of the
+                    United States to display tho flag at
+                    their homes or other suitable places
+                    on tho second Sunday In May as a
+                    pnblio expression of our lovo and rev
+                    erence for the mothers of our country.
+                    And Whereas, by the said joint Rcs
+                    olution it is made tho duty of the
+                    President to request the observation
+                    J of the second Sunday in May as pro
+                    j Tided for In the said joint Resolution;
+                    Now, Therefore, I, Wooclrow Wfl
+                    rj son, President of the United States
+                    ;J of America, by virtue of the authority
+                    vested in mo by the said Joint Rcso
+                    lution, do hereby direct tho Govern-
+                    i W11 above, a proclamation by the
+                    3 M President of the United States,
+                    i added another day to the calen
+                    j dar of our national holidays and
+                    yone which has a tender significance
+                    j and shows a hopeful sign of the ro
+                    i turn of the old-time sentiment of by
+                    Igone days which for a time seemed
+                    crushed out in the wild rush of com
+                    nerclallsm which spread over the
+                    i? land.
+                    f) T"
+                    merit officials to display .tho United
+                    States Flag on all Government build
+                    ings, and do invito tho peoplo of the
+                    United States to display tho flag at
+                    their homes or other suitablo places
+                    on tho second Sunday in May as a
+                    public expression or our lovo and rev
+                    erence for tho Mothers of our coun
+                    try. In witness whereof I have set my
+                    hand and caused tho Seal of tho
+                    United States to bo hereunto affixed.
+                    Done at the City of Washington, this
+                    ninth day of May, in the year of our
+                    Lord One Thousand Nino Hundred and
+                    Fourteen, and the Independence of the
+                    United States One Hundred and Thirty-Eight,
+                    WOODROW WILSON.
+                    By tho President:
+                    William Jennings .Bryan,
+                    Secretary of State."
+                    (SEAL)
+                    Older Tlian Christianity
+                    Tho celebration of Mothers' Day,
+                    while new to us as a feast day, Is In
+                    history older than Christianity Itself,
+                    for Mother-worship with its rites and
+                    ceremonies dates back to tho days of
+                    the pagans when Cybele, tho Groat
+                    Mother of Gods, was idealized in
+                    Greece two centuries or more before
+                    tho coming of Christ. Later tho day
+                    111 HHHHHmBHSW'
+                    became known as tho festival of Hll
+                    arla and was hold on the Ides of
+                    March. As was tho custom of tho
+                    day, offerings wore made at tho tem
+                    ple." With tho advent of Christianity
+                    the festival was changed, and although
+                    It still Included many pagan customs,
+                    It becamo a celebration" In honor of
+                    Mother Church and was held on Mid
+                    Lent Sunday, or tho fourth Sunday In
+                    Lent On this day tho faithful came
+                    to bring offerings to Mother Church.
+                    Finally, tho day took tho name of
+                    Mothering Sunday, and was sot aside
+                    as-tho time when peoplo should pay
+                    visits to their paronts, especially to
+                    tholr mothers, also that they should
+                    carry with them some cako or trinket.
+                    "Going a-mothcrlng" soon becamo tho
+                    fashion and a certain kind of cako
+                    known as simncl cako was carried as
+                    a gift to tho mothor. Horrick, tho
+                    poet, In addressing one of tho char
+                    actors of his poem on Mothering,
+                    says:
+                    "I'll to thee a slmnel bring
+                    Gainst thou go a-mothering,
+                    So that when sho blessos theo,
+                    Half that blessing thou'lt give me."
+                    This proves that even In tho early
+                    days tho mothers' blosslng was highly
+                    regarded.
+                    In England tho slmnel cake3 woro
+                    composed of a crust made of flno flour
+                    and water with sufficient saffron to
+                    give it a deop yellow color and the
+                    interior filled with such ingredients
+                    as Is used In plum puddings. They
+                    aro boiled and brushed over with egg
+                    and set away to harden. When they
+                    are to bo used they must bo robaked
+                    and softened. This, custom was In
+                    vogue during tho seventeenth century
+                    when every child who resided away
+                    from homo was expected to carry a
+                    slmnel to his or her mothor. Fre
+                    quently tho cakes wero kept until
+                    Easter -and sorved ns tho desert for
+                    the dinner on that day.
+                    Early Celebrations
+                    Mothers' Day was first observed in
+                    1908 In Philadelphia by Bevoral of
+                    tho Sunday schoolB, and in 1909 about
+                    two thousand people took part In tho
+                    services. Seattle, Washington, how
+                    over, has tho honor of being tho real
+                    pioneer In a genuino Mothers' Day
+                    celebration. This was In 1900 when
+                    hundrods of peoplo gathered in tho
+                    churches of that city on tho second
+                    Sunday In May. They carried bou
+                    quets and wreaths of flowers and at
+                    the closo of sermons on "Mothor
+                    Lovo" tho entire congregations hold
+                    tholr flowors aloft whllo tho pastor
+                    pronounced a blessing, and at the
+                    closo of tho service tho flowers were
+                    gathered together and placed on the
+                    graves of mothers whoso relatives
+                    wero not in tho city to perform this
+                    loving service.
+                    In 1910 tho Governor of tho State
+                    of Washington set asldo tho eighth
+                    of May ot that year as Mothers' Day
+                    for that Stato, and over slnco that tlmo
+                    tho proclamation of Mothers' Day has
+                    been issued with tho samo regularity
+                    as that of Thanksgiving. A request
+                    is also added that each person wear
+                    a whlto flower on tho day and that
+                    special services should bo held in tho
+                    churches.
+                    Tho Stato of Oklahoma was the next
+                    to fall in lino wltha Mothers' Day
+                    proclamation, whon Governor Leo
+                    Cruco in 1912 paid such a glowing
+                    tribute to motherhood in his procla
+                    mation to tho peoplo of that Stato:
+                    "Each citizen, whether old or
+                    young, rich or poor, happy or -sorrowful,
+                    remember her whoso
+                    lovo passeth human understand
+                    ing, and remembering, manifest
+                    to tho world your lovo nnd gratl
+                    tudo by wearing a carnation In
+                    honor of tho dearest of all moth
+                    ers, and wearing It, think of her
+                    and love her."
+                    Slnco that tlmo many Slatos have
+                    followed the example of these two.
+                    Western States, and at present tho day
+                    has takon-'H prdrrfihent plnfo among
+                    our feast days. Sermons aro preached
+                    on tho subject of motherhood in the
+                    majority of our churches. Tho Sun
+                    day schools have a Mothors Day ser
+                    vice, and In tho afternoon many go
+                    out to tho cemotories to cover tho
+                    gravo of "man's best friend" with gar
+                    lands of flowors.
+                    Mothers' Pensions
+                    Tho celebration of Mothers' Day
+                    has brought about a stronger feeling
+                    on tho subject of pensioning mothers,
+                    and ono Is surprised to learn how
+                    many States havo already adopted tho
+                    pensioning system for mothors who
+                    aro too poor to properly caro for their
+                    chlldron. Whllo the plan is too now
+                    to show vory many benefits to tho
+                    mother and child tho sponsors of tho
+                    bill In tho City of Chicago aro of the
+                    opinion that a child can bo maintained
+                    at homo choaper than It can in an in
+                    stitution, and also that a child with
+                    a homo is less likely to turn criminal
+                    than tho ono brought up in an Insti
+                    tution. Tho statistics of tho Stato Re
+                    formatory at Elmlra in Now York
+                    Stato provo tho above .to bo true In
+                    that Stato at least, sixty per cent
+                    of the Inmates having been brought
+                    up In Institutions instead of homes.
+                    "Home with Mother" is the aim for
+                    the child by the charity workors of
+                    the present day. "Assist the mother
+                    financially," they say, "and sho will
+                    caro for her child In such a manner
+                    that Stato Reformatories will not bo
+                    needed. Tho preservation of tho
+                    home is worth all It cost3 a Common
+                    wealth." Twonty-two States are al
+                    ready In lino In this work: Arizona.
+                    California, Idaho, Iowa, Illinois, Mary
+                    land. Massachusetts, Michigan, Min
+                    nesota. Missouri, Nebraska, Nevada,
+                    New Hampshire, Now Jersey, New
+                    York, Ohio, Oklahoma, Oregon, Penn
+                    sylvania, South Dakota, Utah. Wash
+                    ington and Wisconsin.
+                    Mother Influence on Statesmen
+                    Tho significance of Mothers' Day
+                    should find an echo in every heart,
+                    for It was tho mothors of our Statos-
+                    Imen who Jn the early days put our
+                    'Nation on a 'firm foundation "The
+                    hand that rocks the cradlo Is the hand I
+                    that rules tho world." It was tho
+                    mother of Georgo Washington who,
+                    by hor woman's intuition that ho was
+                    mado for better things, saved him
+                    from becoming a midshipman on a
+                    British ship. It was the turning
+                    point in tho life of tho Father of his
+                    Country whon rather than causo his
+                    mother sorrow ho roturnod his middy
+                    uniform and said "Mothor I can never
+                    go and cause you so much grief. I
+                    will stay at homo." With Washing
+                    ton In tho British Navy thero might
+                    have been no Monmouth and no York
+                    town. Tho character of Androw Jackson's
+                    mother stands out in Amorlcan his
+                    tory like a speck of blue in tho dark
+                    sky of those early days in tho moun
+                    tains. Her advice to her son Bhows
+                    the wisdom of Polonlus and may well
+                    bo treasured by tho man who desires
+                    to succood. Jackson never forgot hor
+                    words of advice and a short time be
+                    fore his death he repeated her part
+                    ing advice to a young man in whom
+                    ho was interested.</text>
+            </result>
+            <result>
+                <id>
+                    https://www.loc.gov/resource/sn83045211/1916-06-29/ed-1/?sp=10&amp;q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&amp;st=text&amp;r=-0.231,-0.073,1.462,1.462,0</id>
+                <rel>1</rel>
+                <text>FOUNDER OF "MOTHERS' DAY"
+                    THANKS AD MEN FOR CO-OPERATION
+                    Miss Anna Jarvis Gives Ad
+                    vertising Men Credit for
+                    Plan
+                    The founder of Mother's Day and tho
+                    Mother's Day International Association
+                    wishes to thank with nlncero appreciation
+                    every member of the Associated Advertising
+                    Clubs who has ever helped for Mother's
+                    Day success.
+                    Mother's Day success.
+                    Mother's Day was first promoted by
+                    Philadelphia papers, and through the co
+                    operation of the press of this and other
+                    countries has been mado an International
+                    celebration. No movement of the century
+                    has obtained so wonderful a hold on the
+                    hearts of tho peoplo under such a multi
+                    tude of dinicultleH and limitations In estab
+                    lishing and promoting It. Tho press, how
+                    ever, has been the one stanch and good
+                    friend of Mother's Day since Its early days,
+                    Mother's Day Is for the honor of the
+                    home, especially Its motherhood, by older
+                    people as well as children, and by the na
+                    tion, that must look to the home as the
+                    fountain head of that which Is good and
+                    true.
+                    The celebration always occurs the second
+                    Sunday in May In homes and churches.
+                    Schools, clubs, etc., celebrate during the
+                    week preceding.
+                    The Mother's Day badge la tho white
+                    carnation, emblem .of the beauty, truth and
+                    fidelity of mother love.
+                    The slogan of Mother's Day Is, "In honor
+                    of the best mother who ever lived, tho
+                    mother of my heart"
+                    As friends of this Mother's Day move
+                    ment, which so distinctly honors your own
+                    mothers, will you not help us to promote
+                    In our way a worldwide, simultaneous celc-
+                    MISS ANNA JARVIS
+                    brntlon of Mother's Day, with the white
+                    carnntlon as tho emblem to be worn, on the
+                    second Sunday of May, and letters or acts
+                    of affection to homes, etc., ns one of tho
+                    simple, easy ways of celebrating?
+                    ANNA JARVIS. Founder.</text>
+            </result>
+            <result>
+                <id>
+                    https://www.loc.gov/resource/sn95060583/1922-05-18/ed-1/?sp=7&amp;q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&amp;st=text&amp;r=0.279,-0.478,1.111,2.36,0</id>
+                <rel>1</rel>
+                <text>MOTHER 0' MINE
+                    It 1 were hanged on the highest hill.
+                    Mother o' mine, O mother o mine!
+                    1 know whose love would follow me still.
+                    Mother o mine, O mother o' mine!
+                    It I were drowned in the deepest sea.
+                    Mother o mine, O mother o' mine!
+                    I know whose tears would come down to
+                    me.
+                    Mother o' mine, O mother o' mine!
+                    If I were cursed in body and soul,
+                    Mother o mine, O mother o mine!
+                    I know whose prayers would make me
+                    whole.
+                    Mother o' mine, O mother o' mine!
+                    Rudyard Kipling.
+                    By JOHN DICKINSON SHERMAN
+                    OTHER'S Day should be
+                    celebrated 365 days In
+                    the year. There's no
+                    need to argue about it.
+                    Every man and woman
+                    blessed with a good
+                    mother knows it's true
+                    and knows why it's true.
+                    It doesn't take a very
+                    old child to understand,
+                    either.
+                    But, since human nature is human
+                    nature, every day isn't observed as
+                    Mother's Day. There is all the more
+                    reason, therefore, for observing the
+                    second Sunday in May May 14, this
+                    year with a real celebration. Some
+                    one has tried to figure out a real cele
+                    bration after this fashion for sons:
+                    Wear a flower in mother's honor
+                    a white one if mother is dead; a col
+                    ored flower for a living mother.
+                    Send mother a box of spring flowers.
+                    Write her a letter a long one.
+                    Give mother a whole day of your
+                    time for that "good visit" she longs
+                    for.
+                    Send mother your picture, and snap
+                    shots of your home, your children,
+                    your work.
+                    Tell mother, your plans and ambi
+                    tions she made them possible.
+                    Tell mother your smaller troubles
+                    she wants to help you.
+                    Thank mother for her care and her
+                    teachings tell her how they have
+                    helped you.
+                    Don't forget that mother still likes
+                    candy.
+                    Mother was your first and truest
+                    sweetheart don't forget to say "I
+                    love you I"
+                    For the daughters these things are
+                    suggested
+                    It's your chance to say "thank you"
+                    to your best friend your mother.
+                    Be sure to celebrate by wearing a
+                    flower for mother: White for mothers
+                    not living; colored flowers for mother
+                    still with you.
+                    Send mother some gay spring flow
+                    ers, a brilliant bouquet or a thrifty
+                    plant.
+                    Make a dainty cap or a "dress-up"
+                    gown or shirtwaist as a love gift to
+                    mother.
+                    If mother is far away, send her a
+                    "special delivery letter" for her Sun
+                    day treat.
+                    Send mother the book you just en
+                    Joyed reading.
+                    Don't forget to send her pictures of
+                    yourself, your friends and your good
+                    times.
+                    Tell mother your small joys and sor
+                    rows and ask her advice It will be
+                    good.
+                    Ask mother to tell you about her
+                    girlhood you'll both enjoy it.
+                    Mother is a gin too. She likes pretty
+                    things, love, laughter and compliments.
+                    Give her some.
+                    The spirit of this celebration is
+                    right enough. The letter of it fails.
+                    Nobody can tell you how to observe
+                    Mother's Day.. You know. If she's a
+                    red carnation mother make her happy.
+                    If she's a white carnation mother, do
+                    something that would make her happy
+                    if she were a red carnation mother.
+                    Nobody can draw up a celebration
+                    schedule for Mother's Day. How can
+                    one, when nobody can find adequate
+                    words to write about Mother's Day?
+                    Mother's Day is something new In
+                    the way of holidays not like Christ
+                    mas and Easter which are old, old
+                    holidays. And It's new, compared with
+                    the Fourth of July. In fact, It's just
+                    about the newest holiday we have.
+                    It was no longer ago than 1906 that
+                    Miss Anne Jarvis of Philadelphia, hon
+                    oring the memory of her own mother
+                    on the anniversary of her death, con
+                    ceived of a day of which everyone
+                    should do reverence to his mother,
+                    whether living or dead. The World's
+                    Sunday School association adopted the
+                    plan, and, in the next few years, an
+                    nually designated one Sunday as
+                    Mother's Day. The purposes of this
+                    celebration, as stated by Dr. George
+                    W. Bailey, then president of the asso
+                    ciation, were:
+                    "To recall the memories of the
+                    mothers that are gone, and through
+                    loving words and loving care to
+                    brighten the lives of the mothers that
+                    remain, and to help children, men and
+                    women to a greater blessing in honor
+                    ing their fathers and their mothers.
+                    "To recall mother's prayers, moth
+                    er's dying words, and the promises
+                    made to mother by the big boy that
+                    still mourns her, and to stop and think
+                    a little of what she was in her life to
+                    her family."
+                    In 1908 Miss Jarvis founded an or
+                    ganization now known as Mother's Day
+                    International association.
+                    The idea was taken up by the states.
+                    In 1910 the governor of Washington
+                    Issued a proclamation designating
+                    May 8 of that year as "Mother's Day"
+                    and urged It be celebrated by special
+                    services and the wearing of a white
+                    flower in honor of all mothers. In 1912
+                    the governor of Oklahoma issued a
+                    similar proclamation.
+                    National recognition was given
+                    Mother's Day by resolution of the
+                    Sixty-third congress, approved by the
+                    President of the United States on May
+                    8, 1914, designating that the second
+                    Sunday in May thereafter should gen
+                    erally be known as "Mother's Day,"
+                    and directing that it should be the
+                    duty, of the President to request its ob
+                    servance by Issuing a proclamation
+                    calling upon the government officials
+                    to display the United States flag on
+                    all government buildings, and the peo
+                    ple to display the flag at their homes
+                    or other suitable places on this day,
+                    "as a public expression of our love
+                    and reverence for the mothers of our
+                    country."
+                    Originally the white carnation was
+                    the flower worn in observance of the
+                    day. Then, the public settled on white
+                    carnations for mothers dead and ted
+                    carnations for mothers living; then on
+                    white flowers and colored flowers.
+                    Now the tendency is to wear "mother's
+                    favorite flower."
+                    The great of the world have been
+                    proud to pay tribute to mothers.
+                    Unhappy is the man for whom his
+                    own mother has not made all other
+                    mothers venerable. Rlchter.
+                    A man never sees all that his mother
+                    has been to him till it's too late to
+                    let her know that he sees it. W. D.
+                    Howells.
+                    If you would reform the world from
+                    its errors and vices, begin by enlisting
+                    the mothers. C. Simmons.
+                    I think It must somewhere be writ
+                    ten that the virtues of the mothers
+                    shall be visited on their children, as
+                    well as the sins of the fathers.
+                    Charles Dickens.
+                    The loving sacrifices of motherhood
+                    must burn on the altar of undying
+                    faith. If I could bequeath but one
+                    priceless heritage to youth, it would
+                    be the ability to know the full measure
+                    of her love. Her Influence is the most
+                    changeless thing in the fiber of a
+                    man's character. It outweighs arts,
+                    science, literature and philosophy, for
+                    her faith and works are better than
+                    all the wise man's knowledge. Sena
+                    tor Lawrence T. Sherman.
+                    Then there Is the Gold Star Mother
+                    and the Mother in Time of War oh,
+                    what's the use!</text>
+            </result>
+            <result>
+                <id>
+                    https://chroniclingamerica.loc.gov/lccn/sn83045487/1915-05-08/ed-1/seq-4/#date1=1756&amp;index=2&amp;rows=20&amp;words=Day+DAY+day+Mother+mother+MOTHERS&amp;searchType=basic&amp;sequence=0&amp;state=&amp;date2=1963&amp;proxtext=Mother%27s+Day&amp;y=26&amp;x=4&amp;dateFilterType=yearRange&amp;page=1</id>
+                <rel>1</rel>
+                <text>MOTHERS DAY TOMORROW! U. S. TO RE
+                    SOUND WITH PRAISES AND PRAYERS FOR HER
+                    Miss Anna Jarvis, the "Mother" of Mother's Day.
+                    Mother will be QUEEN tomorrow.
+                    She will be the sweetheart of the
+                    world.
+                    The carnation, symbol of maternal
+                    love, will be the national flower for
+                    one day at least
+                    In churches, in homes, in prison
+                    cells, in hospitals, in the harvest
+                    fields of the west and in the slums of
+                    the east, every one will pay tribute
+                    to MOTHER or to MOTHER'S mem
+                    ory. Miss Anna Jarvis of Piladelphia is
+                    the "mother" of Mother's day. Eight
+                    years ago she invited her friends to
+                    Join her on May 9 in commemorating
+                    the death of her mother. The annual
+                    tribute to mothers, which is now a
+                    world-wide custom, was the Outcome
+                    of that little meeting.
+                    The official program arranged by
+                    Miss Jarvis for the celebration of
+                    Mother's day includes the Mother's
+                    day prayer, the proclamation of the
+                    president recognizing Mother's day,
+                    James Whitcomb Riley's poem on
+                    Mother's day and the singing of na
+                    tional anthems.</text>
+            </result>
+            <result>
+                <id>
+                    https://chroniclingamerica.loc.gov/lccn/sn83045462/1952-04-27/ed-1/seq-174/#date1=1756&amp;index=3&amp;rows=20&amp;words=Day+mother&amp;searchType=basic&amp;sequence=0&amp;state=&amp;date2=1963&amp;proxtext=Mother%27s+Day&amp;y=26&amp;x=4&amp;dateFilterType=yearRange&amp;page=1</id>
+                <rel>1</rel>
+                <text>On mother’s Day (may 11th) Give Her
+                    Flower-fresh, picture-pretty, purse-pleasing HjH| , ~; | a
+                    cotton</text>
+            </result>
+            <result>
+                <id>
+                    https://chroniclingamerica.loc.gov/lccn/sn83045462/1956-05-06/ed-1/seq-193/#date1=1756&amp;index=0&amp;rows=20&amp;words=DAY+Day+MOTHER+Mother&amp;searchType=basic&amp;sequence=0&amp;state=&amp;date2=1963&amp;proxtext=Mother%27s+Day&amp;y=26&amp;x=4&amp;dateFilterType=yearRange&amp;page=1</id>
+                <rel>0</rel>
+                <text></text>
+            </result>
+            <result>
+                <id>
+                    https://www.loc.gov/resource/sn96027111/1909-04-30/ed-1/?sp=2&amp;q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&amp;st=text&amp;r=-0.056,-0.434,1.111,2.36,0</id>
+                <rel>0</rel>
+                <text></text>
+            </result>
+            <result>
+                <id>
+                    https://www.loc.gov/resource/sn84026749/1909-05-09/ed-1/?sp=8&amp;q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&amp;st=text&amp;r=-0.217,-0.072,1.435,1.435,0</id>
+                <rel>0</rel>
+                <text></text>
+            </result>
+            <result>
+                <id>
+                    https://www.loc.gov/resource/sn85038615/1912-05-12/ed-1/?sp=14&amp;q=Miss+Anna+Annie+Jarvis+Mothers%27+Day&amp;st=text&amp;r=-0.216,-0.072,1.431,1.431,0</id>
+                <rel>0</rel>
+                <text></text>
+            </result>
+            <result>
+                <id>
+                    https://chroniclingamerica.loc.gov/lccn/sn83045462/1952-04-27/ed-1/seq-172/#date1=1756&amp;index=1&amp;rows=20&amp;words=Day+Mother&amp;searchType=basic&amp;sequence=0&amp;state=&amp;date2=1963&amp;proxtext=Mother%27s+Day&amp;y=26&amp;x=4&amp;dateFilterType=yearRange&amp;page=1</id>
+                <rel>0</rel>
+                <text></text>
+            </result>
+            <result>
+                <id>
+                    https://chroniclingamerica.loc.gov/lccn/sn83045462/1938-05-08/ed-1/seq-77/#date1=1756&amp;index=4&amp;rows=20&amp;words=DAY+MOTHER&amp;searchType=basic&amp;sequence=0&amp;state=&amp;date2=1963&amp;proxtext=Mother%27s+Day&amp;y=26&amp;x=4&amp;dateFilterType=yearRange&amp;page=1</id>
+                <rel>0</rel>
+                <text></text>
+            </result>
+        </results>
+    </topic>
 </topics>
